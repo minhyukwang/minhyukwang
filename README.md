@@ -3,9 +3,10 @@
 
 <h3>프로젝트</h3>
 ㅇ MES 노재내화물 관리 개발 1차, 2차  </br>
-#참여기간 : 2021.08 ~ 현재(10개월)  </br>
-#고객사 / 근무회사 : (주)POSCO / (주)에스아이에스 </br>
-#주요내용 : </br>
+참여기간 : 2021.08 ~ 현재(10개월)  </br>
+고객사 / 근무회사 : (주)POSCO / (주)에스아이에스 </br>
+주요내용 : </br>
+
 1. 담당업무
 - 프로젝트 설계(업무/화면/DB) 및 개발 리더 
 - 핵심 업무(자재비, 인건비 정산) 로직 구현
@@ -13,52 +14,6 @@
 - OS : PCF
 - DBMS : Oracle
 - 사용기술 : MSA, JPA, Java, Spring Boot, React 외
-
-전사 제안관리시스템 개발
-참여기간 : 2020.11 ~ 2021.07(9개월)
-고객사 / 근무회사 : (주)POSCO / (주)에스아이에스
-주요내용 : 
-1. 담당업무
-- 프로젝트 설계(업무/화면/DB)
-- 핵심 업무(제안서등록 및 심사편성) 모듈 개발
-2. 사용기술 / TOOL
-- OS : Linux
-- DBMS : Oracle
-- 사용기술 : Glue Framework, Java, JSP, Mybatis 외 
-
-MES 철도관제시스템(포항) 개발
-참여기간 : 2020.07 ~ 2020.10(4개월)
-고객사 / 근무회사 : (주)POSCO / (주)에스아이에스
-주요내용 : 
-1. 담당업무
-- Framework version upgrade에 따른 Migration
-2. 사용기술 / TOOL
-- OS : Linux
-- DBMS : Oracle
-- 사용기술 : MVC Framework, Java, JSP, Mybatis 외 
-
-MES 철도관제시스템(광양) 개발
-참여기간 : 2019.09 ~ 2020.06(10개월)
-고객사 / 근무회사 : (주)POSCO / (주)에스아이에스
-주요내용 : 
-1. 담당업무
-- 용선 스케줄에 따른 공TLC 공급계획 Mapping  알고리즘 개발
-2. 사용기술 / TOOL
-- OS : Linux
-- DBMS : Oracle
-- 사용기술 : Glue Framework, Java, JSP, Mybatis 외 
-
-Smart Factory Posframe Platform 개발
-참여기간 : 2018.09 ~ 2020.08(12개월)
-고객사 / 근무회사 : (주)POSCO / (주)에스아이에스
-주요내용 : 
-1. 담당업무
-- 빅데이터 처리 기술 Posframe Platform 개발
-2. 사용기술 / TOOL
-- OS : Linux
-- DBMS : PostreSQL, Hadoop, Redis
-- 사용기술 : Storm Framework, Java, Mybatis
-
 
 <h3>🛠사용언어</h3>
 <div>

@@ -1,7 +1,7 @@
 # Hi there 👋
 ## Java 개발자 왕민혁 입니다 
 
-## 수행프로젝트
+## 수행 프로젝트
 - POSCO MES 노재내화물 관리 개발 1차, 2차  </br>
 - POSCO 전사 제안관리시스템 개발  </br>
 - POSCO MES 철도관제시스템 개발  </br>
@@ -19,7 +19,7 @@
 </div>
 
 <h3>저를 더 알고싶다면</h3>
-<!- <a href="https://velog.io/@987412563">
+<!-- <a href="https://velog.io/@987412563">
     <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> -->

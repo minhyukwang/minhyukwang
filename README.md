@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I am someone who works with Java programming language and enjoys writing code.
+I am someone who works with Java programming language and enjoys writing code 👨‍💻
 
 
 ## Main Projects

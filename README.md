@@ -12,7 +12,7 @@ I am someone who works with Java programming language and enjoys writing code �
 
 ## Side Projects
 - 심리상담 SNS 어플리케이션(Counsel SNS Application)
-- 웹사이트 프로필 제작(Profile Website)
+- 프로필 웹사이트 제작(Profile Website)
 - 당근마켓 클론 코딩(Carrot Marcket clone coding)  </br>
 ...
 

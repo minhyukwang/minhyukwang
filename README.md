@@ -1,21 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
+## 수행프로젝트
+ㅇ POSCO MES 노재내화물 관리 개발 1차, 2차  </br>
+ㅇ POSCO 전사 제안관리시스템 개발  </br>
+ㅇ POSCO MES 철도관제시스템 개발  </br>
+ㅇ POSCO Smart Factory Posframe Platform개발  </br>
 
-<h3>프로젝트</h3>
-ㅇ MES 노재내화물 관리 개발 1차, 2차  </br>
-참여기간 : 2021.08 ~ 현재(10개월)  </br>
-고객사 / 근무회사 : (주)POSCO / (주)에스아이에스 </br>
-주요내용 : </br>
-
-1. 담당업무
-- 프로젝트 설계(업무/화면/DB) 및 개발 리더 
-- 핵심 업무(자재비, 인건비 정산) 로직 구현
-2. 사용기술 / TOOL
-- OS : PCF
-- DBMS : Oracle
-- 사용기술 : MSA, JPA, Java, Spring Boot, React 외
-
-<h3>🛠사용언어</h3>
+## 🛠사용언어
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;

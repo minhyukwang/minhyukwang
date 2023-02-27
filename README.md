@@ -10,7 +10,7 @@ I am someone who works with Java programming language and enjoys writing code.
 - POSCO Smart Factory Posframe Platform개발  </br>
 ...
 
-## 🛠Program Languages
+## Program Languages
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
@@ -20,7 +20,7 @@ I am someone who works with Java programming language and enjoys writing code.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
-<h3>If you want to know about me. </h3>
+<h3>If you want to know about me.</h3>
 <!-- <a href="https://velog.io/@987412563">
     <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -30,6 +30,8 @@ I am someone who works with Java programming language and enjoys writing code.
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+</br>
+</br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyukwang&show_icons=true&theme=radical)
 <!--
 **minhyukwang/minhyukwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

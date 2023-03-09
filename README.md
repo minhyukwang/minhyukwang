@@ -4,7 +4,7 @@ I am someone who works with Java programming language and enjoys writing code �
 
 
 ## Main Projects
-- POSCO MES 노재내화물 관리 개발 1차, 2차(Posco MES Refractories Management)  </br>
+- POSCO MES 노재내화물 관리 개발(Posco MES Refractories Management)  </br>
 - POSCO 전사 제안관리시스템 개발(Posco Enterprise Proposal Management)  </br>
 - POSCO MES 철도관제시스템 개발(Posco MES Railway Management)  </br>
 - POSCO Smart Factory Posframe Platform 개발(Posco Smartfactory Posframe platform)  </br>

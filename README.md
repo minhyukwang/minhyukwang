@@ -49,7 +49,6 @@ I am someone who works with Java programming language and enjoys writing code �
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> </br></br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyukwang&show_icons=true&theme=radical)
 <!--
 **minhyukwang/minhyukwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

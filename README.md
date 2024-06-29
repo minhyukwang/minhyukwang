@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Minhyuk. 
 
-I'm a Full Stack Developer with a passion for building web applications. Welcome to my GitHub portfolio!
+I'm a Full Stack Developer with a passion for building web applications.
 
 ## 📫 How to reach me
 

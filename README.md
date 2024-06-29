@@ -1,3 +1,62 @@
+# 👋 Hello, I'm John Doe!
+
+![Profile Image](https://example.com/profile.jpg)
+
+I'm a Full Stack Developer with a passion for building web applications. Welcome to my GitHub portfolio!
+
+## 📫 How to reach me
+
+- Email: [john.doe@example.com](mailto:john.doe@example.com)
+- LinkedIn: [John Doe](https://linkedin.com/in/johndoe)
+- Twitter: [@JohnDoe](https://twitter.com/JohnDoe)
+- Website: [johndoe.dev](https://johndoe.dev)
+
+## 🛠️ Skills
+
+- **Languages**: JavaScript, Python, Java, C++
+- **Frameworks**: React, Node.js, Django, Spring
+- **Tools**: Git, Docker, Jenkins, VS Code
+- **Databases**: MySQL, PostgreSQL, MongoDB
+
+## 💼 Projects
+
+### [Project 1](https://github.com/johndoe/project1)
+**Description**: Brief description of the project.  
+**Technologies**: React, Node.js, MongoDB  
+**Features**: List of key features.
+
+### [Project 2](https://github.com/johndoe/project2)
+**Description**: Brief description of the project.  
+**Technologies**: Python, Django, PostgreSQL  
+**Features**: List of key features.
+
+## 📝 Blog Posts
+
+- [How to build a REST API with Django](https://johndoe.dev/rest-api-django)
+- [Understanding JavaScript Closures](https://johndoe.dev/js-closures)
+
+## 🏅 Certifications
+
+- Certified Kubernetes Administrator (CKA)
+- AWS Certified Solutions Architect
+
+## 🌍 Open Source Contributions
+
+- [Awesome Project](https://github.com/awesome/project) - Added feature XYZ
+- [Another Project](https://github.com/another/project) - Fixed bug ABC
+
+## 📈 GitHub Stats
+
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
+
+
+
+
+
+
+
 # Hi there 👋 
 
 I am someone who works with Java programming language and enjoys writing code 👨‍💻

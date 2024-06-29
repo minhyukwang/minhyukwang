@@ -4,8 +4,8 @@ I'm a Full Stack Developer with a passion for building web applications. Welcome
 
 ## 📫 How to reach me
 
-- Email: [minhyuk.tech@gmail.com](mailto:minhyuk.tech@gmail.com)
-- LinkedIn: [Minhyuk]([https://linkedin.com/in/johndoe](https://www.linkedin.com/in/minhyuktech/))
+- Email: [minhyuk.tech@gmail.com]([mailto:minhyuk.tech@gmail.com])
+- LinkedIn: [Minhyuk]([https://www.linkedin.com/in/minhyuktech/])
 - Website: [johndoe.dev](https://johndoe.dev)
 
 ## 🛠️ Skills

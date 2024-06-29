@@ -25,9 +25,8 @@ I'm a Full Stack Developer with a passion for building web applications. Welcome
 
 # Side Projects
 - [식물샵(Piumddeul)](https://piumddeul.com)
-- SNS연동 Todo List application
-- 심리상담 SNS 어플리케이션(Counsel SNS Application)
-- 당근마켓 클론 코딩(Carrot Marcket clone coding)  </br>
+- TodoList SNS
+- [심리상담(Counsel) SNS](https://solcounsel.com/) </br>
 
 ## 📝 Blog Posts
 

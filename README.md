@@ -28,6 +28,7 @@ I'm a Full Stack Developer with a passion for building web applications. Welcome
 - TodoList SNS
 - [심리상담(Counsel) SNS](https://solcounsel.com/) </br>
 
+<!--
 ## 📝 Blog Posts
 
 - [How to build a REST API with Django](https://johndoe.dev/rest-api-django)
@@ -42,25 +43,18 @@ I'm a Full Stack Developer with a passion for building web applications. Welcome
 
 - [Awesome Project](https://github.com/awesome/project) - Added feature XYZ
 - [Another Project](https://github.com/another/project) - Fixed bug ABC
+-->
 
 ## 📈 GitHub Stats
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![Minhyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyukwang&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyukwang&layout=compact&theme=radical)
 
 
 
 
-
-# Hi there 👋 
-
-I am someone who works with Java programming language and enjoys writing code 👨‍💻
-
-
-
+<!--
 
 ## Program Languages
 <div>
@@ -85,14 +79,17 @@ I am someone who works with Java programming language and enjoys writing code �
 </div>
 
 <h3>If you want to know about me.</h3>
+-->
 <!-- <a href="https://velog.io/@987412563">
     <img src="http://img.shields.io/badge/Tech Blog-00D182?style=flat&logo=Emby&logoColor=white&link=https://velog.io/@987412563"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> -->
+<!--
 <a href="https://minhyuk.tech@gmail.com">
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> </br></br>
+-->
 
 <!--
 **minhyukwang/minhyukwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,12 +1,11 @@
-# 👋 Hello, I'm Peter!
+# 👋 Hello, I'm Minhyuk. 
 
 I'm a Full Stack Developer with a passion for building web applications. Welcome to my GitHub portfolio!
 
 ## 📫 How to reach me
 
 - Email: [minhyuk.tech@gmail.com](mailto:minhyuk.tech@gmail.com)
-- LinkedIn: [John Doe](https://linkedin.com/in/johndoe)
-- Twitter: [@JohnDoe](https://twitter.com/JohnDoe)
+- LinkedIn: [Minhyuk]([https://linkedin.com/in/johndoe](https://www.linkedin.com/in/minhyuktech/))
 - Website: [johndoe.dev](https://johndoe.dev)
 
 ## 🛠️ Skills

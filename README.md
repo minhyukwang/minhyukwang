@@ -24,8 +24,8 @@ I'm a Full Stack Developer with a passion for building web applications.
 - POSCO Smart Factory Posframe Platform 개발 (POSCO Smartfactory Posframe platform)
 
 ### Side Projects
-- [식물샵🌱(Piumddeul)](https://piumddeul.com)
-- [심리상담🕊(Counsel) SNS](https://solcounsel.com/)
+- [식물샵(Piumddeul)🌱](https://piumddeul.com)
+- [심리상담(Counsel) SNS](https://solcounsel.com/)
 - TodoList SNS 🚀 </br>
 
 <!--

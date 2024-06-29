@@ -16,14 +16,14 @@ I'm a Full Stack Developer with a passion for building web applications. Welcome
 - **Databases**: MySQL, PostgreSQL, MongoDB, Oracle
 
 ## 💼 Projects
-# Main Projects
+### Main Projects
 - NH농협 차세대경제시스템 개발(NH Nonghyup Enterprise Economy System) </br>
 - POSCO MES 노재내화물 관리 개발(POSCO MES Refractories Management)  </br>
 - POSCO 전사 제안관리시스템 개발(POSCO Enterprise Proposal Management)  </br>
 - POSCO MES 철도관제시스템 개발(POSCO MES Railway Management)  </br>
 - POSCO Smart Factory Posframe Platform 개발(POSCO Smartfactory Posframe platform)  </br>
 
-# Side Projects
+### Side Projects
 - [식물샵(Piumddeul)](https://piumddeul.com)
 - [심리상담(Counsel) SNS](https://solcounsel.com/)
 - TodoList SNS</br>

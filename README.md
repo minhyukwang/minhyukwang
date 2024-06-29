@@ -17,16 +17,16 @@ I'm a Full Stack Developer with a passion for building web applications. Welcome
 
 ## 💼 Projects
 # Main Projects
-- NH농협 차세대경제시스템 개발(NH Nonghyup Economy System) </br>
-- POSCO MES 노재내화물 관리 개발(Posco MES Refractories Management)  </br>
-- POSCO 전사 제안관리시스템 개발(Posco Enterprise Proposal Management)  </br>
-- POSCO MES 철도관제시스템 개발(Posco MES Railway Management)  </br>
-- POSCO Smart Factory Posframe Platform 개발(Posco Smartfactory Posframe platform)  </br>
+- NH농협 차세대경제시스템 개발(NH Nonghyup Enterprise Economy System) </br>
+- POSCO MES 노재내화물 관리 개발(POSCO MES Refractories Management)  </br>
+- POSCO 전사 제안관리시스템 개발(POSCO Enterprise Proposal Management)  </br>
+- POSCO MES 철도관제시스템 개발(POSCO MES Railway Management)  </br>
+- POSCO Smart Factory Posframe Platform 개발(POSCO Smartfactory Posframe platform)  </br>
 
 # Side Projects
 - [식물샵(Piumddeul)](https://piumddeul.com)
-- TodoList SNS
-- [심리상담(Counsel) SNS](https://solcounsel.com/) </br>
+- [심리상담(Counsel) SNS](https://solcounsel.com/)
+- TodoList SNS</br>
 
 <!--
 ## 📝 Blog Posts

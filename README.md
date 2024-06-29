@@ -1,22 +1,20 @@
-# 👋 Hello, I'm John Doe!
-
-![Profile Image](https://example.com/profile.jpg)
+# 👋 Hello, I'm Peter!
 
 I'm a Full Stack Developer with a passion for building web applications. Welcome to my GitHub portfolio!
 
 ## 📫 How to reach me
 
-- Email: [john.doe@example.com](mailto:john.doe@example.com)
+- Email: [minhyuk.tech@gmail.com](mailto:minhyuk.tech@gmail.com)
 - LinkedIn: [John Doe](https://linkedin.com/in/johndoe)
 - Twitter: [@JohnDoe](https://twitter.com/JohnDoe)
 - Website: [johndoe.dev](https://johndoe.dev)
 
 ## 🛠️ Skills
 
-- **Languages**: JavaScript, Python, Java, C++
-- **Frameworks**: React, Node.js, Django, Spring
-- **Tools**: Git, Docker, Jenkins, VS Code
-- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Languages**: JavaScript, Java, Python
+- **Frameworks**: NextJs, Spring, Node.js, Django
+- **Tools**: Git, Docker, Jenkins, VS Code, IntelliJ
+- **Databases**: MySQL, PostgreSQL, MongoDB, Oracle
 
 ## 💼 Projects
 
@@ -29,6 +27,20 @@ I'm a Full Stack Developer with a passion for building web applications. Welcome
 **Description**: Brief description of the project.  
 **Technologies**: Python, Django, PostgreSQL  
 **Features**: List of key features.
+
+## Main Projects
+- NH농협 차세대경제시스템 개발(NH Nonghyup Economy System) </br>
+- POSCO MES 노재내화물 관리 개발(Posco MES Refractories Management)  </br>
+- POSCO 전사 제안관리시스템 개발(Posco Enterprise Proposal Management)  </br>
+- POSCO MES 철도관제시스템 개발(Posco MES Railway Management)  </br>
+- POSCO Smart Factory Posframe Platform 개발(Posco Smartfactory Posframe platform)  </br>
+...
+
+## Side Projects
+- 심리상담 SNS 어플리케이션(Counsel SNS Application)
+- 프로필 웹사이트 제작(Profile Website)
+- 당근마켓 클론 코딩(Carrot Marcket clone coding)  </br>
+...
 
 ## 📝 Blog Posts
 
@@ -62,19 +74,7 @@ I'm a Full Stack Developer with a passion for building web applications. Welcome
 I am someone who works with Java programming language and enjoys writing code 👨‍💻
 
 
-## Main Projects
-- NH농협 차세대경제시스템 개발(NH Nonghyup Economy System) </br>
-- POSCO MES 노재내화물 관리 개발(Posco MES Refractories Management)  </br>
-- POSCO 전사 제안관리시스템 개발(Posco Enterprise Proposal Management)  </br>
-- POSCO MES 철도관제시스템 개발(Posco MES Railway Management)  </br>
-- POSCO Smart Factory Posframe Platform 개발(Posco Smartfactory Posframe platform)  </br>
-...
 
-## Side Projects
-- 심리상담 SNS 어플리케이션(Counsel SNS Application)
-- 프로필 웹사이트 제작(Profile Website)
-- 당근마켓 클론 코딩(Carrot Marcket clone coding)  </br>
-...
 
 ## Program Languages
 <div>

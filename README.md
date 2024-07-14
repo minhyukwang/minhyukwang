@@ -10,7 +10,7 @@ I'm a Full Stack Developer with a passion for building web applications.
 ## 🛠️ Skills
 
 - **Languages**: JavaScript, Java, Python
-- **Frameworks**: NextJs, Spring, Node.js, Django
+- **Frameworks**: NextJs, Spring, Node.js, MSA, Django
 - **Tools**: Git, Docker, Jenkins, VS Code, IntelliJ
 - **Databases**: MySQL, PostgreSQL, MongoDB, Oracle
 

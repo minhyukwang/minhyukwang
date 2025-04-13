@@ -10,9 +10,7 @@ I'm a Full Stack Developer with a passion for building web applications.
 
 
 
-- Email: [minhyuk.tech@gmail.com](mailto:minhyuk.tech@gmail.com) / 
-
-         [minhyukwang@naver.com](mailto:minhyukwang@naver.com)
+- Email: [minhyuk.tech@gmail.com](mailto:minhyuk.tech@gmail.com) / [minhyukwang@naver.com](mailto:minhyukwang@naver.com)
 
 - Website: [minhyuk-web](https://minhyuk-tech.vercel.app)
 

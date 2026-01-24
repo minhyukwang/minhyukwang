@@ -1,81 +1,74 @@
+<div align="center">
+
 # 🚀 Minhyuk Wang
 ### Full Stack Developer | Creative Solution Builder
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=4285F4&text=Creative%20Fullstack%20Dev&fontSize=40&fontAlignY=40&animation=fadeIn" width="100%" />
+[![KOREAN](https://img.shields.io/badge/Language-KOREAN-4285F4?style=for-the-badge&logo=google-translate&logoColor=white)](#-korean-version) 
+[![ENGLISH](https://img.shields.io/badge/Language-ENGLISH-lightgrey?style=for-the-badge&logo=google-translate&logoColor=white)](#-english-version)
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=4285F4&text=Creative%20Fullstack%20Dev&fontSize=40&fontAlignY=40&animation=fadeIn" width="100%" />
+
 </div>
 
+<br/>
+
+---
+
+<h2 id="korean-version">🇰🇷 KOREAN VERSION</h2>
+
+### 👨‍💻 한 줄 요약
+- **전문성**: 엔터프라이즈급 아키텍처 및 현대적인 웹 솔루션 구축
+- **현재**: **ThinkingCat Works** 프로젝트 리딩
+- **경험**: POSCO MES, NH농협 차세대 시스템 등 대규모 프로젝트 수행
+- **지향점**: 클린 코드, 확장성 있는 설계, 끊김 없는 사용자 경험(UX)
+
+### 🛠️ 기술 스택
+| 구분 | 기술 목록 |
+| :--- | :--- |
+| **Languages** | `TypeScript` `JavaScript` `Java` `Python` |
+| **Frontend** | `Next.js` `React` `Tailwind CSS` |
+| **Backend** | `Spring Boot` `Node.js` `Django` |
+| **Infra/DB** | `PostgreSQL` `MySQL` `Docker` `Jenkins` |
+
+### 💼 주요 프로젝트
+* **NH농협 차세대 시스템**: 핵심 뱅킹 및 금융 로직 개발
+* **POSCO MES 시리즈**: 스마트 팩토리, 물류 및 철도 관제 시스템
+* **ThinkingCat Works 제품군**: 체크온(출결), 렌트온(렌탈), 피움뜰(커머스) 등 다수 SaaS 개발
+
 <div align="right">
-  <a href="https://thinkingcatworks.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="mailto:minhyuk.tech@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#">▲ 위로 가기</a>
 </div>
 
 ---
 
-## 👨‍💻 Quick Summary
+<h2 id="english-version">🇺🇸 ENGLISH VERSION</h2>
+
+### 👨‍💻 Quick Summary
 - **Expertise**: Enterprise-level architecture & Modern web solutions.
 - **Current**: Leading projects at **ThinkingCat Works**.
 - **Experience**: POSCO MES, NH Bank Next-Gen Systems.
 - **Focus**: Clean code, Scalability, and Seamless UX.
 
----
+### 🛠️ Technical Universe
+| Category | Tech Stack |
+| :--- | :--- |
+| **Languages** | `TypeScript` `JavaScript` `Java` `Python` |
+| **Frontend** | `Next.js` `React` `Tailwind CSS` |
+| **Backend** | `Spring Boot` `Node.js` `Django` |
+| **Infra/DB** | `PostgreSQL` `MySQL` `Docker` `Jenkins` |
 
-## 🛠️ Technical Universe
+### 💼 Selected Projects
+* **NH Nonghyup Next-Gen**: Core Banking & Financial Logic
+* **POSCO MES Series**: Smart Factory, Logistics & Railway Control System
+* **ThinkingCat Works**: CheckOn(HR), RentOn(Rental), Piumddeul(Commerce)
 
-<table align="center">
-  <tr>
-    <td align="center" width="200px"><b>Languages</b></td>
-    <td align="center" width="200px"><b>Frontend</b></td>
-    <td align="center" width="200px"><b>Backend</b></td>
-    <td align="center" width="200px"><b>Infra/DB</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<div align="right">
+  <a href="#">▲ Back to Top</a>
+</div>
 
 ---
 
-## 💼 Selected Projects
-
-### 🏛️ Enterprise Experience
-> **High-traffic & Mission-critical systems**
-
-* **NH Nonghyup Next-Gen System** | Core Banking & Financial Logic
-* **POSCO MES Series** | Smart Factory, Logistics & Railway Control System
-* **POSCO Posframe Platform** | Enterprise-wide Data Integration
-
-### 🚀 Innovation by [ThinkingCat Works](https://thinkingcatworks.com)
-> **Modern SaaS & Lifestyle Solutions**
-
-* **CheckOn (📱)**: Real-time attendance & HR management.
-* **RentOn (🏠)**: All-in-one rental subscription platform.
-* **Piumddeul (🌿)**: Large-scale plant commerce & community.
-* **StockOn (📈)**: Data-driven stock portfolio analysis tool.
-
----
-
-## 📊 Performance & Insights
+## 📊 Performance Insights
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=minhyukwang&show_icons=true&theme=material-palenight&hide_border=true&title_color=4285F4&icon_color=FBBC05&bg_color=00000000" width="48%" />
@@ -89,6 +82,9 @@
 ---
 
 <div align="center">
+  <a href="https://thinkingcatworks.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:minhyuk.tech@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <br/>
   <p><i>"The best way to predict the future is to invent it."</i></p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=4285F4&height=30&section=footer" width="100%" />
 </div>

@@ -287,9 +287,17 @@ Efficient case management and tracking solution
 
 ### 📊 GitHub Stats
 
-![Minhyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyukwang&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+<!-- GitHub Stats with reduced cache time (1 hour) and include_all_commits -->
+![Minhyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyukwang&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=3600)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyukwang&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=minhyukwang&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyukwang&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=3600)
+
+<!-- GitHub Contribution Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minhyukwang&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true)
 
 ---
 

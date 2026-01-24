@@ -15,146 +15,11 @@
 
 <div align="right">
 
-<details>
-<summary><b>🇺🇸 View in English</b></summary>
-
-<div align="left">
-
-## 👨‍💻 About Me
-
-A Full Stack Developer passionate about building web applications.  
-Experienced in developing enterprise-level systems and startup projects.
-
-## 📫 Contact
-
-- **Email**: [minhyuk.tech@gmail.com](mailto:minhyuk.tech@gmail.com) / [minhyukwang@naver.com](mailto:minhyukwang@naver.com)
-- **Portfolio**: [thinkingcatworks.com](https://thinkingcatworks.com)
-- **GitHub**: [@minhyukwang](https://github.com/minhyukwang)
-
-## 🛠️ Skills
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-## 💼 Projects
-
-### 🏢 Enterprise Projects
-
-<details>
-<summary><b>View Enterprise Projects</b></summary>
-
-- **NH Nonghyup Enterprise Economy System**  
-  Development and maintenance of large-scale financial systems
-
-- **POSCO MES Refractories Management**  
-  Development of refractories management module in Manufacturing Execution System
-
-- **POSCO Enterprise Proposal Management**  
-  Enterprise-wide proposal management platform development
-
-- **POSCO MES Railway Management**  
-  Railway operation and control system development
-
-- **POSCO Smart Factory Posframe Platform**  
-  Smart factory platform development and integration
-
-</details>
-
-### 🚀 ThinkingCat Works Projects
-
-Projects developed at [thinkingcatworks.com](https://thinkingcatworks.com):
-
-<details>
-<summary><b>View Project Details</b></summary>
-
-#### 📱 CheckOn
-**Attendance Management System**  
-Smart attendance management solution for efficient workflow  
-- Real-time attendance tracking
-- Attendance statistics and reports
-- Mobile app support
-
-#### 🏠 RentOn
-**Rental Platform**  
-Smart rental management solution  
-- Rental product management
-- Contract management system
-- Payment integration
-
-#### 🛍️ Ohihoo
-**Lifestyle Store**  
-Trendy online shopping mall for daily essentials  
-- E-commerce platform
-- Product management system
-- Order and delivery management
-
-#### 🌿 Piumddeul
-**Plant Community**  
-Large-scale plant shopping and community platform  
-- Plant shopping mall
-- Community features
-- Plant care guides
-
-#### 📈 StockOn
-**Stock Portfolio Management**  
-Smart stock asset management solution  
-- Real-time stock price tracking
-- Portfolio management
-- Investment analysis tools
-
-#### 🥋 Saburang
-**Taekwondo Dojang Management**  
-Smart management solution for Taekwondo dojangs  
-- Student management
-- Attendance tracking
-- Tuition management
-
-#### 📋 CaseOn
-**Case Management System**  
-Efficient case management and tracking solution  
-- Case registration and management
-- Progress tracking
-- Report generation
-
-</details>
-
-### 🎨 Side Projects
-
-- **[Piumddeul](https://piumddeul.com)** - Plant community and shopping mall
-- **[Counsel SNS](https://solcounsel.com/)** - Psychological counseling community platform
-- **TodoList SNS** - Social task management app
+**Language:** 🇰🇷 한국어 | <kbd>[🇺🇸 English](#english-version)</kbd>
 
 </div>
 
-</details>
-
-</div>
-
----
+<br>
 
 ## 👨‍💻 소개
 
@@ -288,3 +153,147 @@ Efficient case management and tracking solution
 - **[식물샵 (Piumddeul)](https://piumddeul.com)** - 식물 커뮤니티 및 쇼핑몰
 - **[심리상담 (Counsel) SNS](https://solcounsel.com/)** - 심리 상담 커뮤니티 플랫폼
 - **TodoList SNS** - 소셜 기능이 있는 할일 관리 앱
+
+---
+
+<br>
+<br>
+<br>
+
+<h2 id="english-version">🇺🇸 English Version</h2>
+
+<div align="right">
+
+**Language:** <kbd>[🇰🇷 한국어](#)</kbd> | 🇺🇸 English
+
+</div>
+
+<br>
+
+## 👨‍💻 About Me
+
+A Full Stack Developer passionate about building web applications.  
+Experienced in developing enterprise-level systems and startup projects.
+
+## 📫 Contact
+
+- **Email**: [minhyuk.tech@gmail.com](mailto:minhyuk.tech@gmail.com) / [minhyukwang@naver.com](mailto:minhyukwang@naver.com)
+- **Portfolio**: [thinkingcatworks.com](https://thinkingcatworks.com)
+- **GitHub**: [@minhyukwang](https://github.com/minhyukwang)
+
+## 🛠️ Skills
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+## 💼 Projects
+
+### 🏢 Enterprise Projects
+
+<details>
+<summary><b>View Enterprise Projects</b></summary>
+
+- **NH Nonghyup Enterprise Economy System**  
+  Development and maintenance of large-scale financial systems
+
+- **POSCO MES Refractories Management**  
+  Development of refractories management module in Manufacturing Execution System
+
+- **POSCO Enterprise Proposal Management**  
+  Enterprise-wide proposal management platform development
+
+- **POSCO MES Railway Management**  
+  Railway operation and control system development
+
+- **POSCO Smart Factory Posframe Platform**  
+  Smart factory platform development and integration
+
+</details>
+
+### 🚀 ThinkingCat Works Projects
+
+Projects developed at [thinkingcatworks.com](https://thinkingcatworks.com):
+
+<details>
+<summary><b>View Project Details</b></summary>
+
+#### 📱 CheckOn
+**Attendance Management System**  
+Smart attendance management solution for efficient workflow  
+- Real-time attendance tracking
+- Attendance statistics and reports
+- Mobile app support
+
+#### 🏠 RentOn
+**Rental Platform**  
+Smart rental management solution  
+- Rental product management
+- Contract management system
+- Payment integration
+
+#### 🛍️ Ohihoo
+**Lifestyle Store**  
+Trendy online shopping mall for daily essentials  
+- E-commerce platform
+- Product management system
+- Order and delivery management
+
+#### 🌿 Piumddeul
+**Plant Community**  
+Large-scale plant shopping and community platform  
+- Plant shopping mall
+- Community features
+- Plant care guides
+
+#### 📈 StockOn
+**Stock Portfolio Management**  
+Smart stock asset management solution  
+- Real-time stock price tracking
+- Portfolio management
+- Investment analysis tools
+
+#### 🥋 Saburang
+**Taekwondo Dojang Management**  
+Smart management solution for Taekwondo dojangs  
+- Student management
+- Attendance tracking
+- Tuition management
+
+#### 📋 CaseOn
+**Case Management System**  
+Efficient case management and tracking solution  
+- Case registration and management
+- Progress tracking
+- Report generation
+
+</details>
+
+### 🎨 Side Projects
+
+- **[Piumddeul](https://piumddeul.com)** - Plant community and shopping mall
+- **[Counsel SNS](https://solcounsel.com/)** - Psychological counseling community platform
+- **TodoList SNS** - Social task management app

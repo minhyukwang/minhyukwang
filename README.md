@@ -283,34 +283,3 @@ Efficient case management and tracking solution
 
 </details>
 
----
-
-<div align="center">
-
-### ✨ Thanks for visiting!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-thinkingcatworks.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thinkingcatworks.com)
-[![Email](https://img.shields.io/badge/📧_Email-minhyuk.tech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhyuk.tech@gmail.com)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-minhyukwang-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhyukwang)
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
-  
-![Visitor Count](https://profile-counter.glitch.me/minhyukwang/count.svg)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=65&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=20&fontColor=ffffff&animation=twinkling">
-
-</div>
-
-</div>
-
-</div>

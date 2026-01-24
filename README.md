@@ -1,11 +1,13 @@
 <div align="center">
 
-# 👋 Hello, I'm Minhyuk
+<img src="https://readme-typing-svg.vercel.app/?lines=👋+Hello,+I'm+Minhyuk;💻+Full+Stack+Developer;🚀+Building+innovative+web+applications&font=Fira%20Code&center=true&width=500&height=50&color=58A6FF&vCenter=true&size=28&duration=3000&pause=1000">
 
-**Full Stack Developer** | Building innovative web applications
+<div align="center" style="margin-top: 20px;">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-thinkingcatworks.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thinkingcatworks.com)
 [![Email](https://img.shields.io/badge/Email-minhyuk.tech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhyuk.tech@gmail.com)
+
+</div>
 
 ---
 
@@ -285,25 +287,67 @@ Efficient case management and tracking solution
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<!-- GitHub Stats with reduced cache time (1 hour) and include_all_commits -->
-![Minhyuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyukwang&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=3600)
+<div align="center">
 
-<!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=minhyukwang&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      
+#### 💻 Stats
+      
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhyukwang&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=3600&hide_title=true&hide_rank=false)
+      
+    </td>
+    <td valign="top" width="50%">
+      
+#### 🔥 Streak
+      
+![GitHub Streak](https://streak-stats.demolab.com?user=minhyukwang&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF&hide_current_streak=false)
+      
+    </td>
+  </tr>
+</table>
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyukwang&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=3600)
+#### 📈 Contribution Activity
 
-<!-- GitHub Contribution Graph -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minhyukwang&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minhyukwang&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&custom_title=Contribution%20Activity&hide_title=false)
+
+#### 💬 Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyukwang&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=3600&hide_title=false)
+
+</div>
 
 ---
 
-**Thanks for visiting!** ⭐
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-thinkingcatworks.com-000000?style=flat-square&logo=vercel&logoColor=white)](https://thinkingcatworks.com)
-[![Email](https://img.shields.io/badge/Email-minhyuk.tech@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:minhyuk.tech@gmail.com)
+### ✨ Thanks for visiting!
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-thinkingcatworks.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thinkingcatworks.com)
+[![Email](https://img.shields.io/badge/📧_Email-minhyuk.tech@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhyuk.tech@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-minhyukwang-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhyukwang)
+
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  
+![Visitor Count](https://profile-counter.glitch.me/minhyukwang/count.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=65&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=20&fontColor=ffffff&animation=twinkling">
+
+</div>
+
+</div>
 
 </div>

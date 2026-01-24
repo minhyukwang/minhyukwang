@@ -1,81 +1,94 @@
-# 🚀 Minhyuk Wang | Full Stack Developer
+# 🚀 Minhyuk Wang
+### Full Stack Developer | Creative Solution Builder
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=4285F4&text=Creative%20Fullstack%20Dev&fontSize=40&fontAlignY=40&animation=fadeIn" width="100%" />
+</div>
 
-<img src="https://readme-typing-svg.vercel.app/?lines=👋+안녕하세요,+민혁입니다;💻+세상을+바꾸는+풀스택+개발자;🚀+구글처럼+깔끔하고+강력한+코드를+지향합니다&font=Product+Sans&center=true&width=600&height=50&color=4285F4&vCenter=true&size=24&duration=3000&pause=1000">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thinkingcatworks.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minhyukwang)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhyuk.tech@gmail.com)
-
-<br/>
-
-| [🇰🇷 한국어](#-소개) | [🇺🇸 English](#-about-me) |
-| :---: | :---: |
-
+<div align="right">
+  <a href="https://thinkingcatworks.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:minhyuk.tech@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
 
-## 👨‍💻 소개
-> **"복잡한 문제를 단순하고 아름다운 솔루션으로 해결합니다."**
-
-엔터프라이즈급 금융/제조 시스템부터 트렌디한 스타트업 서비스까지, 탄탄한 백엔드 아키텍처와 직관적인 프론트엔드 UI를 결합하여 사용자 경험을 극대화하는 **풀스택 개발자**입니다.
-
----
-
-## 🛠️ 기술 스택 (Tech Stack)
-
-### <img src="https://fonts.gstatic.com/s/i/short-term/release/googlegfonts/code/default/24px.svg" width="20px"> Languages & Core
-`JavaScript` `TypeScript` `Java` `Python`
-
-### <img src="https://fonts.gstatic.com/s/i/short-term/release/googlegfonts/settings_ethernet/default/24px.svg" width="20px"> Frameworks & Libraries
-`Next.js` `React` `Spring Boot` `Node.js` `Django` `Tailwind CSS`
-
-### <img src="https://fonts.gstatic.com/s/i/short-term/release/googlegfonts/database/default/24px.svg" width="20px"> Database & Infrastructure
-`MySQL` `PostgreSQL` `MongoDB` `Oracle` `Docker` `Jenkins` `Git`
+## 👨‍💻 Quick Summary
+- **Expertise**: Enterprise-level architecture & Modern web solutions.
+- **Current**: Leading projects at **ThinkingCat Works**.
+- **Experience**: POSCO MES, NH Bank Next-Gen Systems.
+- **Focus**: Clean code, Scalability, and Seamless UX.
 
 ---
 
-## 💼 프로젝트 경험
+## 🛠️ Technical Universe
 
-### 🏢 Enterprise Experience
-| Project | Role | Description |
-| :--- | :---: | :--- |
-| **NH농협 차세대경제시스템** | BE Developer | 대규모 금융 인프라 및 핵심 비즈니스 로직 개발 |
-| **POSCO MES 철도/노재관리** | Full-Stack | 제조 실행 시스템 내 물류 및 자원 관리 모듈 구축 |
-| **POSCO Smart Factory** | Platform Dev | Posframe 플랫폼 기반 스마트 팩토리 통합 및 고도화 |
-
-### 🚀 ThinkingCat Works (SaaS & Platform)
-<details>
-<summary><b>주요 독자 프로젝트 상세 보기 (Click)</b></summary>
-
-* **📱 CheckOn**: 위치 기반 및 QR을 활용한 스마트 출결 관리
-* **🏠 RentOn**: 계약부터 결제까지 아우르는 렌탈 관리 솔루션
-* **🛍️ Ohihoo**: 데이터 기반 라이프스타일 커머스
-* **🌿 Piumddeul**: 식물 집사들을 위한 커뮤니티 및 마켓
-* **📈 StockOn**: 개인 투자자를 위한 포트폴리오 분석 도구
-</details>
+<table align="center">
+  <tr>
+    <td align="center" width="200px"><b>Languages</b></td>
+    <td align="center" width="200px"><b>Frontend</b></td>
+    <td align="center" width="200px"><b>Backend</b></td>
+    <td align="center" width="200px"><b>Infra/DB</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Selected Projects
+
+### 🏛️ Enterprise Experience
+> **High-traffic & Mission-critical systems**
+
+* **NH Nonghyup Next-Gen System** | Core Banking & Financial Logic
+* **POSCO MES Series** | Smart Factory, Logistics & Railway Control System
+* **POSCO Posframe Platform** | Enterprise-wide Data Integration
+
+### 🚀 Innovation by [ThinkingCat Works](https://thinkingcatworks.com)
+> **Modern SaaS & Lifestyle Solutions**
+
+* **CheckOn (📱)**: Real-time attendance & HR management.
+* **RentOn (🏠)**: All-in-one rental subscription platform.
+* **Piumddeul (🌿)**: Large-scale plant commerce & community.
+* **StockOn (📈)**: Data-driven stock portfolio analysis tool.
+
+---
+
+## 📊 Performance & Insights
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhyukwang&show_icons=true&theme=vue-conf&hide_border=true&title_color=4285F4&icon_color=FBBC05&bg_color=ffffff" alt="Minhyuk's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhyukwang&layout=compact&theme=vue-conf&hide_border=true&title_color=34A853&bg_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minhyukwang&show_icons=true&theme=material-palenight&hide_border=true&title_color=4285F4&icon_color=FBBC05&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhyukwang&layout=compact&theme=material-palenight&hide_border=true&title_color=34A853&bg_color=00000000" width="40%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhyukwang&theme=material-palenight&hide_border=true&stroke=4285F4&background=00000000" width="89%" />
 </div>
 
 ---
 
-## 🇺🇸 About Me
-
-Full-stack developer with a passion for building scalable web applications. From POSCO's manufacturing systems to NH Bank's financial networks, I deliver high-quality code that drives business value.
-
-* **Email**: [minhyuk.tech@gmail.com](mailto:minhyuk.tech@gmail.com)
-* **Web**: [thinkingcatworks.com](https://thinkingcatworks.com)
-
-<br/>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4285F4&height=150&section=footer" />
+  <p><i>"The best way to predict the future is to invent it."</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=4285F4&height=30&section=footer" width="100%" />
 </div>

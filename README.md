@@ -287,43 +287,6 @@ Efficient case management and tracking solution
 
 <div align="center">
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      
-#### 💻 Stats
-      
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minhyukwang&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=3600&hide_title=true&hide_rank=false)
-      
-    </td>
-    <td valign="top" width="50%">
-      
-#### 🔥 Streak
-      
-![GitHub Streak](https://streak-stats.demolab.com?user=minhyukwang&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&dates=58A6FF&hide_current_streak=false)
-      
-    </td>
-  </tr>
-</table>
-
-#### 📈 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minhyukwang&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&custom_title=Contribution%20Activity&hide_title=false)
-
-#### 💬 Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyukwang&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&cache_seconds=3600&hide_title=false)
-
-</div>
-
----
-
-<div align="center">
-
 ### ✨ Thanks for visiting!
 
 <div align="center">

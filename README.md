@@ -15,7 +15,7 @@
 
 <div align="right">
 
-**Language:** 🇰🇷 한국어 | <kbd>[🇺🇸 English](#english-version)</kbd>
+![Korean](https://img.shields.io/badge/🇰🇷_한국어-selected-58A6FF?style=for-the-badge) [![English](https://img.shields.io/badge/🇺🇸_English-click-lightgrey?style=for-the-badge)](#english-version)
 
 </div>
 
@@ -164,7 +164,7 @@
 
 <div align="right">
 
-**Language:** <kbd>[🇰🇷 한국어](#)</kbd> | 🇺🇸 English
+[![Korean](https://img.shields.io/badge/🇰🇷_한국어-click-lightgrey?style=for-the-badge)](#) ![English](https://img.shields.io/badge/🇺🇸_English-selected-58A6FF?style=for-the-badge)
 
 </div>
 

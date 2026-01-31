@@ -19,6 +19,8 @@
 
 ## 👨‍💻 소개
 
+안녕하세요 왕민혁(Peter)입니다.
+
 > 풀스택 개발자입니다. 금융·제조 엔터프라이즈 시스템 개발·운영 경험을 바탕으로, 엔드투엔드 웹 설계·배포와 스타트업 서비스까지 기획·개발해 왔습니다.
 
 **연락** · <a href="mailto:minhyuk.tech@gmail.com" target="_blank" rel="noopener noreferrer">minhyuk.tech@gmail.com</a> · <a href="https://thinkingcatworks.com" target="_blank" rel="noopener noreferrer">thinkingcatworks.com</a> · <a href="https://github.com/minhyukwang" target="_blank" rel="noopener noreferrer">@minhyukwang</a>

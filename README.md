@@ -56,15 +56,23 @@
 
 ### ThinkingCat Works · [thinkingcatworks.com](https://thinkingcatworks.com)
 
-- **체크온** — 출결·근태 관리, 모바일 지원
-- **렌트온** — 렌탈 상품·계약·결제 관리
-- **오히후** — 이커머스, 주문·배송 관리
-- **피움뜰** — 식물 쇼핑·커뮤니티
-- **스톡온** — 주가·포트폴리오·투자 분석
-- **사부랑** — 태권도 도장 학생·출석·수강료 관리
-- **케이슨** — 사례 등록·진행 추적·리포트
+**이커머스**
+- **오히후** — 일상용 이커머스, 주문·배송 관리
+- **피움뜰** — 식물 이커머스·커뮤니티
 
-**사이드** · [피움뜰](https://piumddeul.com) · [솔카운셀](https://solcounsel.com) · TodoList SNS
+**출결·근태**
+- **체크온** — 출결·근태 관리, 모바일 지원
+
+**렌탈**
+- **렌트온** — 렌탈 상품·계약·결제 관리
+
+**투자·자산**
+- **스톡온** — 주가·포트폴리오·투자 분석
+
+**도장 관리**
+- **도장톡톡** — 태권도 도장 학생·출석·수강료 관리
+
+**사이드** · TodoList SNS
 
 ---
 
@@ -108,12 +116,20 @@ Full Stack Developer. Background in enterprise system development and operations
 
 ### ThinkingCat Works · [thinkingcatworks.com](https://thinkingcatworks.com)
 
-- **CheckOn** — Attendance & workforce, mobile
-- **RentOn** — Rental products, contracts, payment
-- **Ohihoo** — E-commerce, order & delivery
-- **Piumddeul** — Plant shopping & community
-- **StockOn** — Quotes, portfolio, investment analysis
-- **Saburang** — Taekwondo dojang management
-- **CaseOn** — Case tracking & reports
+**E-commerce**
+- **Ohihoo** — Daily essentials e-commerce, order & delivery
+- **Piumddeul** — Plant e-commerce & community
 
-**Side** · [Piumddeul](https://piumddeul.com) · [SolCounsel](https://solcounsel.com) · TodoList SNS
+**Attendance & workforce**
+- **CheckOn** — Attendance tracking, mobile support
+
+**Rental**
+- **RentOn** — Rental products, contracts, payment
+
+**Investment**
+- **StockOn** — Quotes, portfolio, investment analysis
+
+**Dojang management**
+- **도장톡톡** — Taekwondo dojang: students, attendance, tuition
+
+**Side** · TodoList SNS

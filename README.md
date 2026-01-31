@@ -27,14 +27,23 @@
 
 ## 🏢 엔터프라이즈 경력
 
-| 기간 | 프로젝트 | 설명 |
-| :---: | :--- | :--- |
-| <small>24.07 ~ 현재</small> | **NH농협 통합로그인(SSO) 및 메뉴권한관리 운영** | 농협 전사 통합로그인·은행 메뉴권한관리 시스템 운영 |
-| <small>23.04 ~ 24.06</small> | **NH농협 경제유통 차세대 프로젝트 구축** | 전사 경제업무시스템 공통 운영관리(로그인, 권한관리 등) 모듈 개발 |
-| <small>21.08 ~ 23.03</small> | **POSCO MES 노재내화물 관리 개발** | MSA 기반 설비·자재비·인건비 정산 등 업무 모듈 설계·개발 |
-| <small>20.11 ~ 21.07</small> | **POSCO 전사 제안관리시스템 개발** | 제안등록·심사 시스템 업무·화면·DB 설계 및 게임형 UI 구현 |
-| <small>19.09 ~ 20.10</small> | **POSCO MES 철도관제시스템 개발** | Framework Migration, 용선 스케줄 기반 공급계획 매핑·대용량 트랜잭션 처리 |
-| <small>18.09 ~ 19.08</small> | **POSCO Smart Factory Posframe Platform 개발** | 빅데이터 처리 플랫폼, 공장 기초·가공 데이터 수집·저장·처리 |
+> **NH농협 통합로그인(SSO) 및 메뉴권한관리 운영** <small>24.07 ~ 현재</small>  
+> 농협 전사 통합로그인·은행 메뉴권한관리 시스템 운영
+
+> **NH농협 경제유통 차세대 프로젝트 구축** <small>23.04 ~ 24.06</small>  
+> 전사 경제업무시스템 공통 운영관리(로그인, 권한관리 등) 모듈 개발
+
+> **POSCO MES 노재내화물 관리 개발** <small>21.08 ~ 23.03</small>  
+> MSA 기반 설비·자재비·인건비 정산 등 업무 모듈 설계·개발
+
+> **POSCO 전사 제안관리시스템 개발** <small>20.11 ~ 21.07</small>  
+> 제안등록·심사 시스템 업무·화면·DB 설계 및 게임형 UI 구현
+
+> **POSCO MES 철도관제시스템 개발** <small>19.09 ~ 20.10</small>  
+> Framework Migration, 용선 스케줄 기반 공급계획 매핑·대용량 트랜잭션 처리
+
+> **POSCO Smart Factory Posframe Platform 개발** <small>18.09 ~ 19.08</small>  
+> 빅데이터 처리 플랫폼, 공장 기초·가공 데이터 수집·저장·처리
 
 <details>
 <summary><b>상세 보기</b></summary>
@@ -115,14 +124,23 @@
 
 ## 🏢 Enterprise Experience
 
-| Period | Project | Description |
-| :---: | :--- | :--- |
-| <small>24.07 ~ Present</small> | **NH Nonghyup SSO & Menu Permission Operations** | Enterprise SSO and bank menu/permission system operations |
-| <small>23.04 ~ 24.06</small> | **NH Nonghyup Economy Distribution Next-Gen** | Common operations (login, permissions) module development |
-| <small>21.08 ~ 23.03</small> | **POSCO MES Refractories Management** | MSA-based design & development for equipment, material/labor cost settlement |
-| <small>20.11 ~ 21.07</small> | **POSCO Enterprise Proposal Management** | Proposal registration & review system, game-style UI |
-| <small>19.09 ~ 20.10</small> | **POSCO MES Railway Control** | Framework migration, supply planning mapping, high-volume transaction handling |
-| <small>18.09 ~ 19.08</small> | **POSCO Smart Factory Posframe Platform** | Big-data platform for plant data collection, storage & processing |
+> **NH Nonghyup SSO & Menu Permission Operations** <small>24.07 ~ Present</small>  
+> Enterprise SSO and bank menu/permission system operations
+
+> **NH Nonghyup Economy Distribution Next-Gen** <small>23.04 ~ 24.06</small>  
+> Common operations (login, permissions) module development
+
+> **POSCO MES Refractories Management** <small>21.08 ~ 23.03</small>  
+> MSA-based design & development for equipment, material/labor cost settlement
+
+> **POSCO Enterprise Proposal Management** <small>20.11 ~ 21.07</small>  
+> Proposal registration & review system, game-style UI
+
+> **POSCO MES Railway Control** <small>19.09 ~ 20.10</small>  
+> Framework migration, supply planning mapping, high-volume transaction handling
+
+> **POSCO Smart Factory Posframe Platform** <small>18.09 ~ 19.08</small>  
+> Big-data platform for plant data collection, storage & processing
 
 <details>
 <summary><b>View details</b></summary>

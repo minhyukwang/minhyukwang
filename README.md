@@ -2,11 +2,6 @@
 
 <img src="https://readme-typing-svg.vercel.app/?lines=Hi,+I'm+Minhyuk;Full+Stack+Developer;Building+products+that+matter&font=Fira%20Code&center=true&width=600&height=50&color=58A6FF&vCenter=true&size=24&duration=3000&pause=1000">
 
-<br>
-
-<a href="mailto:minhyuk.tech@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/minhyukwang" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
 </div>
 
 <table>
@@ -191,5 +186,7 @@
 - **도장톡톡** — Taekwondo attendance system
 
 </details></td>
+<td align="right"><a href="mailto:minhyuk.tech@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/minhyukwang" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a></td>
 </tr>
 </table>

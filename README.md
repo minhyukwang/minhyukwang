@@ -79,22 +79,22 @@
 
 ### 사이드프로젝트 (<a href="https://thinkingcatworks.com" target="_blank" rel="noopener noreferrer">THINKINGCAT</a>)
 
-> [**오히후**](https://ohihoo.com) <small>[→ 사이트](https://ohihoo.com)</small>  
+> **오히후** · <a href="https://ohihoo.com" target="_blank" rel="noopener noreferrer">바로가기</a>  
 > 일상용 이커머스, 주문·배송 관리
 
-> [**피움뜰**](https://piumddeul.com) <small>[→ 사이트](https://piumddeul.com)</small>  
+> **피움뜰** · <a href="https://piumddeul.com" target="_blank" rel="noopener noreferrer">바로가기</a>  
 > 식물 이커머스·커뮤니티
 
-> [**도장톡톡**](https://dojang.thinkingcatworks.com/intro) <small>[→ 사이트](https://dojang.thinkingcatworks.com/intro)</small>  
+> **도장톡톡** · <a href="https://dojang.thinkingcatworks.com/intro" target="_blank" rel="noopener noreferrer">바로가기</a>  
 > 태권도 출결 시스템
 
-> [**체크온**](https://check.thinkingcatworks.com/intro) <small>[→ 사이트](https://check.thinkingcatworks.com/intro)</small>  
+> **체크온** · <a href="https://check.thinkingcatworks.com/intro" target="_blank" rel="noopener noreferrer">바로가기</a>  
 > 음악 출결 시스템
 
-> [**스톡온**](https://stock.thinkingcatworks.com/intro) <small>[→ 사이트](https://stock.thinkingcatworks.com/intro)</small>  
+> **스톡온** · <a href="https://stock.thinkingcatworks.com/intro" target="_blank" rel="noopener noreferrer">바로가기</a>  
 > 주가·포트폴리오·투자 분석 및 퀀트 시스템
 
-> [**렌트온**](https://rent.thinkingcatworks.com/intro) <small>[→ 사이트](https://rent.thinkingcatworks.com/intro)</small>  
+> **렌트온** · <a href="https://rent.thinkingcatworks.com/intro" target="_blank" rel="noopener noreferrer">바로가기</a>  
 > 연습실(음악) 임대 시스템
 
 <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='1' fill='%2358A6FF' fill-opacity='0.15'/%3E%3C/svg%3E" width="100%" height="2" alt="" />
@@ -163,20 +163,20 @@
 
 ### Side projects (<a href="https://thinkingcatworks.com" target="_blank" rel="noopener noreferrer">THINKINGCAT</a>)
 
-> [**Ohihoo**](https://ohihoo.com) <small>[→ Site](https://ohihoo.com)</small>  
+> **Ohihoo** · <a href="https://ohihoo.com" target="_blank" rel="noopener noreferrer">바로가기</a>  
 > Daily essentials e-commerce, order & delivery
 
-> [**Piumddeul**](https://piumddeul.com) <small>[→ Site](https://piumddeul.com)</small>  
+> **Piumddeul** · <a href="https://piumddeul.com" target="_blank" rel="noopener noreferrer">바로가기</a>  
 > Plant e-commerce & community
 
-> [**도장톡톡**](https://dojang.thinkingcatworks.com/intro) <small>[→ Site](https://dojang.thinkingcatworks.com/intro)</small>  
+> **도장톡톡** · <a href="https://dojang.thinkingcatworks.com/intro" target="_blank" rel="noopener noreferrer">바로가기</a>  
 > Taekwondo attendance system
 
-> [**CheckOn**](https://check.thinkingcatworks.com/intro) <small>[→ Site](https://check.thinkingcatworks.com/intro)</small>  
+> **CheckOn** · <a href="https://check.thinkingcatworks.com/intro" target="_blank" rel="noopener noreferrer">바로가기</a>  
 > Music attendance system
 
-> [**StockOn**](https://stock.thinkingcatworks.com/intro) <small>[→ Site](https://stock.thinkingcatworks.com/intro)</small>  
+> **StockOn** · <a href="https://stock.thinkingcatworks.com/intro" target="_blank" rel="noopener noreferrer">바로가기</a>  
 > Stock, portfolio, investment analysis & quant system
 
-> [**RentOn**](https://rent.thinkingcatworks.com/intro) <small>[→ Site](https://rent.thinkingcatworks.com/intro)</small>  
+> **RentOn** · <a href="https://rent.thinkingcatworks.com/intro" target="_blank" rel="noopener noreferrer">바로가기</a>  
 > Music practice room rental system

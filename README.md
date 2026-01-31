@@ -30,37 +30,37 @@
 
 | 기간 | 프로젝트 | 설명 |
 |:---:|:---|:---|
-| 2024.07 ~ 현재 | **NH농협 통합로그인(SSO) 및 메뉴권한관리 운영** | 농협 전사 통합로그인·은행 메뉴권한관리 시스템 운영 |
-| 2023.04 ~ 2024.06 | **NH농협 경제유통 차세대 프로젝트 구축** | 전사 경제업무시스템 공통 운영관리(로그인, 권한관리 등) 모듈 개발 |
-| 2021.08 ~ 2023.03 | **POSCO MES 노재내화물 관리 개발** | MSA 기반 설비·자재비·인건비 정산 등 업무 모듈 설계·개발 |
-| 2020.11 ~ 2021.07 | **POSCO 전사 제안관리시스템 개발** | 제안등록·심사 시스템 업무·화면·DB 설계 및 게임형 UI 구현 |
-| 2019.09 ~ 2020.10 | **POSCO MES 철도관제시스템 개발** | Framework Migration, 용선 스케줄 기반 공급계획 매핑·대용량 트랜잭션 처리 |
-| 2018.09 ~ 2019.08 | **POSCO Smart Factory Posframe Platform 개발** | 빅데이터 처리 플랫폼, 공장 기초·가공 데이터 수집·저장·처리 |
+| 24.07 ~ 현재 | **NH농협 통합로그인(SSO) 및 메뉴권한관리 운영** | 농협 전사 통합로그인·은행 메뉴권한관리 시스템 운영 |
+| 23.04 ~ 24.06 | **NH농협 경제유통 차세대 프로젝트 구축** | 전사 경제업무시스템 공통 운영관리(로그인, 권한관리 등) 모듈 개발 |
+| 21.08 ~ 23.03 | **POSCO MES 노재내화물 관리 개발** | MSA 기반 설비·자재비·인건비 정산 등 업무 모듈 설계·개발 |
+| 20.11 ~ 21.07 | **POSCO 전사 제안관리시스템 개발** | 제안등록·심사 시스템 업무·화면·DB 설계 및 게임형 UI 구현 |
+| 19.09 ~ 20.10 | **POSCO MES 철도관제시스템 개발** | Framework Migration, 용선 스케줄 기반 공급계획 매핑·대용량 트랜잭션 처리 |
+| 18.09 ~ 19.08 | **POSCO Smart Factory Posframe Platform 개발** | 빅데이터 처리 플랫폼, 공장 기초·가공 데이터 수집·저장·처리 |
 
 <details>
 <summary><b>상세 보기</b></summary>
 
-**통합로그인(SSO) 및 메뉴권한관리 운영** (2024.07 ~ 현재)  
+**통합로그인(SSO) 및 메뉴권한관리 운영** (24.07 ~ 현재)  
 · 사용기술: Linux, Oracle, Spring, JSP  
 · 농협 전사 통합로그인(SSO) 시스템과 농협은행 메뉴권한관리 시스템의 운영. 사용자 인증·권한 관리 체계 유지보수, 시스템 안정성·접근 통제 강화.
 
-**NH농협 경제유통 차세대 프로젝트 구축** (2023.04 ~ 2024.06, 14개월)  
+**NH농협 경제유통 차세대 프로젝트 구축** (23.04 ~ 24.06, 14개월)  
 · 사용기술: Linux, Oracle, xFrame5, BXM, Spring  
 · 농협 전사 경제업무시스템 내 공통 운영관리(로그인, 권한관리 등) 모듈 개발. 사용자관리, 권한관리, 기준관리 등 공통 기능 설계·구현.
 
-**POSCO MES 노재내화물 관리 개발** (2021.08 ~ 2023.03, 20개월)  
+**POSCO MES 노재내화물 관리 개발** (21.08 ~ 23.03, 20개월)  
 · 사용기술: Oracle, MSA, JPA, Java, Spring Boot, React, EAI  
 · 업무 설계·타 시스템 I/F·DB 설계 수행. 설비 수리 등록, 자재비·인건비 정산 등 주요 모듈 개발. MSA 아키텍처 기반 시스템 설계·구현.
 
-**POSCO 전사 제안관리시스템 개발** (2020.11 ~ 2021.07, 9개월)  
+**POSCO 전사 제안관리시스템 개발** (20.11 ~ 21.07, 9개월)  
 · 사용기술: Spring Framework, Java, JSP, Mybatis, EAI  
 · 전사 제안등록·심사 시스템 업무·화면·DB 설계 및 개발. 외주 디자인(㈜레이랩) 협업, 게임형 인터페이스 기반 UI로 UX 향상.
 
-**POSCO MES 철도관제시스템 개발** (2019.09 ~ 2020.10, 14개월)  
+**POSCO MES 철도관제시스템 개발** (19.09 ~ 20.10, 14개월)  
 · 사용기술: Spring Framework, Java, JSP, Mybatis, EAI  
 · Framework 버전 업그레이드 Migration, 용선 스케줄 기반 공급계획 매핑 알고리즘 개발. MES 환경 트랜잭션·DB Lock 이슈 해결, 대용량 트랜잭션 관리.
 
-**POSCO Smart Factory Posframe Platform 개발** (2018.09 ~ 2019.08, 12개월)  
+**POSCO Smart Factory Posframe Platform 개발** (18.09 ~ 19.08, 12개월)  
 · 사용기술: PostgreSQL, Hadoop, Redis, Storm, Java, Mybatis, EAI  
 · 전사 데이터 빅데이터 처리 플랫폼(Posframe) 개발. 공장 기초·가공 데이터 수집·저장·처리, 억 단위 대용량 데이터 처리 및 EAI 연동.
 
@@ -116,37 +116,37 @@ Full Stack Developer. Background in enterprise system development and operations
 
 | Period | Project | Description |
 |:---:|:---|:---|
-| 2024.07 ~ Present | **NH Nonghyup SSO & Menu Permission Operations** | Enterprise SSO and bank menu/permission system operations |
-| 2023.04 ~ 2024.06 | **NH Nonghyup Economy Distribution Next-Gen** | Common operations (login, permissions) module development |
-| 2021.08 ~ 2023.03 | **POSCO MES Refractories Management** | MSA-based design & development for equipment, material/labor cost settlement |
-| 2020.11 ~ 2021.07 | **POSCO Enterprise Proposal Management** | Proposal registration & review system, game-style UI |
-| 2019.09 ~ 2020.10 | **POSCO MES Railway Control** | Framework migration, supply planning mapping, high-volume transaction handling |
-| 2018.09 ~ 2019.08 | **POSCO Smart Factory Posframe Platform** | Big-data platform for plant data collection, storage & processing |
+| 24.07 ~ Present | **NH Nonghyup SSO & Menu Permission Operations** | Enterprise SSO and bank menu/permission system operations |
+| 23.04 ~ 24.06 | **NH Nonghyup Economy Distribution Next-Gen** | Common operations (login, permissions) module development |
+| 21.08 ~ 23.03 | **POSCO MES Refractories Management** | MSA-based design & development for equipment, material/labor cost settlement |
+| 20.11 ~ 21.07 | **POSCO Enterprise Proposal Management** | Proposal registration & review system, game-style UI |
+| 19.09 ~ 20.10 | **POSCO MES Railway Control** | Framework migration, supply planning mapping, high-volume transaction handling |
+| 18.09 ~ 19.08 | **POSCO Smart Factory Posframe Platform** | Big-data platform for plant data collection, storage & processing |
 
 <details>
 <summary><b>View details</b></summary>
 
-**SSO & Menu Permission Operations** (2024.07 ~ Present)  
+**SSO & Menu Permission Operations** (24.07 ~ Present)  
 · Tech: Linux, Oracle, Spring, JSP  
 · Operations for group-wide SSO and bank menu/permission systems; authentication & access control.
 
-**NH Nonghyup Economy Distribution Next-Gen** (2023.04 ~ 2024.06, 14mo)  
+**NH Nonghyup Economy Distribution Next-Gen** (23.04 ~ 24.06, 14mo)  
 · Tech: Linux, Oracle, xFrame5, BXM, Spring  
 · Common operations modules (login, permissions, user/standard management) for economy systems.
 
-**POSCO MES Refractories** (2021.08 ~ 2023.03, 20mo)  
+**POSCO MES Refractories** (21.08 ~ 23.03, 20mo)  
 · Tech: Oracle, MSA, JPA, Java, Spring Boot, React, EAI  
 · End-to-end design; equipment repair, material/labor cost settlement; MSA-based implementation.
 
-**POSCO Proposal Management** (2020.11 ~ 2021.07, 9mo)  
+**POSCO Proposal Management** (20.11 ~ 21.07, 9mo)  
 · Tech: Spring Framework, Java, JSP, Mybatis, EAI  
 · Proposal registration & review system; game-style UI with external design partner.
 
-**POSCO MES Railway Control** (2019.09 ~ 2020.10, 14mo)  
+**POSCO MES Railway Control** (19.09 ~ 20.10, 14mo)  
 · Tech: Spring Framework, Java, JSP, Mybatis, EAI  
 · Framework migration; supply planning mapping; transaction & DB lock handling in MES.
 
-**POSCO Smart Factory Posframe** (2018.09 ~ 2019.08, 12mo)  
+**POSCO Smart Factory Posframe** (18.09 ~ 19.08, 12mo)  
 · Tech: PostgreSQL, Hadoop, Redis, Storm, Java, Mybatis, EAI  
 · Big-data platform for plant data; large-scale processing and EAI integration.
 

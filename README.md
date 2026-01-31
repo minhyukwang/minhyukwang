@@ -20,9 +20,25 @@
 
 ## 👨‍💻 소개
 
-풀스택 개발자입니다. 엔드투엔드 웹 설계·개발과, 금융·제조 엔터프라이즈부터 스타트업 서비스까지 기획·배포 경험이 있습니다.
+풀스택 개발자입니다. 금융·제조 엔터프라이즈 시스템 개발·운영 경험을 바탕으로, 엔드투엔드 웹 설계·배포와 스타트업 서비스까지 기획·개발해 왔습니다.
 
 **연락** · [minhyuk.tech@gmail.com](mailto:minhyuk.tech@gmail.com) · [thinkingcatworks.com](https://thinkingcatworks.com) · [@minhyukwang](https://github.com/minhyukwang)
+
+---
+
+## 🏢 엔터프라이즈 경력
+
+| 기간 | 프로젝트 | 설명 |
+|:---:|:---|:---|
+| 20XX.XX ~ 20XX.XX | **NH농협 차세대경제시스템** | 대규모 금융 시스템 개발·유지보수 |
+| 20XX.XX ~ 20XX.XX | **NH농협 통합로그인 SSO** | 통합 Single Sign-On 개발·운영 |
+| 20XX.XX ~ 20XX.XX | **IMMS 통합업무시스템** | 메뉴·권한관리시스템 운영업무 |
+| 20XX.XX ~ 20XX.XX | **POSCO MES 노재내화물 관리** | 제조 실행 시스템 내화물 관리 모듈 개발 |
+| 20XX.XX ~ 20XX.XX | **POSCO 전사 제안관리시스템** | 전사 제안 관리 플랫폼 구축 |
+| 20XX.XX ~ 20XX.XX | **POSCO MES 철도관제** | 철도 운행·관제 시스템 개발 |
+| 20XX.XX ~ 20XX.XX | **POSCO Smart Factory Posframe** | 스마트 팩토리 플랫폼 개발·통합 |
+
+---
 
 ### 기술 스택
 
@@ -38,14 +54,7 @@
 **DB · 도구**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 💼 프로젝트
-
-**엔터프라이즈**
-
-- NH농협 차세대경제시스템 · 통합로그인 SSO · IMMS 통합업무시스템(메뉴·권한관리 운영)
-- POSCO MES 노재내화물·철도관제 · 전사 제안관리시스템 · Smart Factory Posframe
-
-**ThinkingCat Works** · [thinkingcatworks.com](https://thinkingcatworks.com)
+### ThinkingCat Works · [thinkingcatworks.com](https://thinkingcatworks.com)
 
 - **체크온** — 출결·근태 관리, 모바일 지원
 - **렌트온** — 렌탈 상품·계약·결제 관리
@@ -55,9 +64,7 @@
 - **사부랑** — 태권도 도장 학생·출석·수강료 관리
 - **케이슨** — 사례 등록·진행 추적·리포트
 
-**사이드**
-
-- [피움뜰](https://piumddeul.com) · [솔카운셀](https://solcounsel.com) · TodoList SNS
+**사이드** · [피움뜰](https://piumddeul.com) · [솔카운셀](https://solcounsel.com) · TodoList SNS
 
 ---
 
@@ -65,9 +72,25 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer. I design and build web applications end-to-end, from enterprise systems (finance, manufacturing) to startup products.
+Full Stack Developer. Background in enterprise system development and operations (finance, manufacturing); I design and build web applications end-to-end and have shipped startup products from concept to deployment.
 
 **Contact** · [minhyuk.tech@gmail.com](mailto:minhyuk.tech@gmail.com) · [thinkingcatworks.com](https://thinkingcatworks.com) · [@minhyukwang](https://github.com/minhyukwang)
+
+---
+
+## 🏢 Enterprise Experience
+
+| Period | Project | Description |
+|:---:|:---|:---|
+| 20XX.XX ~ 20XX.XX | **NH Nonghyup Economy System** | Large-scale financial system development & maintenance |
+| 20XX.XX ~ 20XX.XX | **NH Nonghyup Integrated Login SSO** | Single Sign-On development & operations |
+| 20XX.XX ~ 20XX.XX | **IMMS Integrated Business System** | Menu & permission management system operations |
+| 20XX.XX ~ 20XX.XX | **POSCO MES Refractories** | Refractories management module in MES |
+| 20XX.XX ~ 20XX.XX | **POSCO Proposal Management** | Enterprise-wide proposal platform |
+| 20XX.XX ~ 20XX.XX | **POSCO MES Railway** | Railway operation & control system |
+| 20XX.XX ~ 20XX.XX | **POSCO Smart Factory Posframe** | Smart factory platform development & integration |
+
+---
 
 ### Skills
 
@@ -83,14 +106,7 @@ Full Stack Developer. I design and build web applications end-to-end, from enter
 **DB · Tools**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 💼 Projects
-
-**Enterprise**
-
-- NH Nonghyup: Economy System, Integrated Login SSO, IMMS (menu & permission operations)
-- POSCO: MES Refractories & Railway, Proposal Management, Smart Factory Posframe
-
-**ThinkingCat Works** · [thinkingcatworks.com](https://thinkingcatworks.com)
+### ThinkingCat Works · [thinkingcatworks.com](https://thinkingcatworks.com)
 
 - **CheckOn** — Attendance & workforce, mobile
 - **RentOn** — Rental products, contracts, payment
@@ -100,6 +116,4 @@ Full Stack Developer. I design and build web applications end-to-end, from enter
 - **Saburang** — Taekwondo dojang management
 - **CaseOn** — Case tracking & reports
 
-**Side**
-
-- [Piumddeul](https://piumddeul.com) · [SolCounsel](https://solcounsel.com) · TodoList SNS
+**Side** · [Piumddeul](https://piumddeul.com) · [SolCounsel](https://solcounsel.com) · TodoList SNS

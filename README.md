@@ -87,6 +87,8 @@
 | 프로젝트 | 설명 |
 |:---|:---|
 | **NH농협 차세대경제시스템** | 대규모 금융 시스템 개발·유지보수 |
+| **NH농협 통합로그인 SSO** | 통합 Single Sign-On 개발·운영 |
+| **IMMS 통합업무시스템** | 메뉴·권한관리시스템 운영업무 |
 | **POSCO MES 노재내화물 관리** | 제조 실행 시스템 내화물 관리 모듈 |
 | **POSCO 전사 제안관리시스템** | 전사 제안 관리 플랫폼 구축 |
 | **POSCO MES 철도관제** | 철도 운행·관제 시스템 |
@@ -200,6 +202,8 @@ Experience spans enterprise systems (finance, manufacturing) and startup product
 | Project | Description |
 |:---|:---|
 | **NH Nonghyup Economy System** | Large-scale financial system development & maintenance |
+| **NH Nonghyup Integrated Login SSO** | Single Sign-On development & operations |
+| **IMMS Integrated Business System** | Menu & permission management system operations |
 | **POSCO MES Refractories** | Refractories management module in MES |
 | **POSCO Proposal Management** | Enterprise-wide proposal platform |
 | **POSCO MES Railway** | Railway operation & control system |

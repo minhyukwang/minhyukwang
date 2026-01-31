@@ -9,7 +9,9 @@
 
 </div>
 
-<details open>
+<table>
+<tr>
+<td><details open>
 <summary><b>🇰🇷 한국어</b></summary>
 
 <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='1' fill='%2358A6FF' fill-opacity='0.15'/%3E%3C/svg%3E" width="100%" height="2" alt="" />
@@ -98,9 +100,8 @@
 **태권도 출결**
 - **도장톡톡** — 태권도 출결 시스템
 
-</details>
-
-<details>
+</details></td>
+<td><details>
 <summary><b>🇺🇸 English</b></summary>
 
 <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='1' fill='%2358A6FF' fill-opacity='0.15'/%3E%3C/svg%3E" width="100%" height="2" alt="" />
@@ -189,4 +190,6 @@
 **Taekwondo attendance**
 - **도장톡톡** — Taekwondo attendance system
 
-</details>
+</details></td>
+</tr>
+</table>

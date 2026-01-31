@@ -48,29 +48,14 @@
 <details>
 <summary><b>상세 보기</b></summary>
 
-**통합로그인(SSO) 및 메뉴권한관리 운영** <small>(24.07 ~ 현재)</small>  
-· 사용기술: Linux, Oracle, Spring, JSP  
-· 농협 전사 통합로그인(SSO) 시스템과 농협은행 메뉴권한관리 시스템의 운영. 사용자 인증·권한 관리 체계 유지보수, 시스템 안정성·접근 통제 강화.
-
-**NH농협 경제유통 차세대 프로젝트 구축** <small>(23.04 ~ 24.06, 14개월)</small>  
-· 사용기술: Linux, Oracle, xFrame5, BXM, Spring  
-· 농협 전사 경제업무시스템 내 공통 운영관리(로그인, 권한관리 등) 모듈 개발. 사용자관리, 권한관리, 기준관리 등 공통 기능 설계·구현.
-
-**POSCO MES 노재내화물 관리 개발** <small>(21.08 ~ 23.03, 20개월)</small>  
-· 사용기술: Oracle, MSA, JPA, Java, Spring Boot, React, EAI  
-· 업무 설계·타 시스템 I/F·DB 설계 수행. 설비 수리 등록, 자재비·인건비 정산 등 주요 모듈 개발. MSA 아키텍처 기반 시스템 설계·구현.
-
-**POSCO 전사 제안관리시스템 개발** <small>(20.11 ~ 21.07, 9개월)</small>  
-· 사용기술: Spring Framework, Java, JSP, Mybatis, EAI  
-· 전사 제안등록·심사 시스템 업무·화면·DB 설계 및 개발. 외주 디자인(㈜레이랩) 협업, 게임형 인터페이스 기반 UI로 UX 향상.
-
-**POSCO MES 철도관제시스템 개발** <small>(19.09 ~ 20.10, 14개월)</small>  
-· 사용기술: Spring Framework, Java, JSP, Mybatis, EAI  
-· Framework 버전 업그레이드 Migration, 용선 스케줄 기반 공급계획 매핑 알고리즘 개발. MES 환경 트랜잭션·DB Lock 이슈 해결, 대용량 트랜잭션 관리.
-
-**POSCO Smart Factory Posframe Platform 개발** <small>(18.09 ~ 19.08, 12개월)</small>  
-· 사용기술: PostgreSQL, Hadoop, Redis, Storm, Java, Mybatis, EAI  
-· 전사 데이터 빅데이터 처리 플랫폼(Posframe) 개발. 공장 기초·가공 데이터 수집·저장·처리, 억 단위 대용량 데이터 처리 및 EAI 연동.
+| 프로젝트 | 기간 | 사용기술 | 설명 |
+| :--- | :---: | :--- | :--- |
+| 통합로그인(SSO) 및 메뉴권한관리 운영 | 24.07 ~ 현재 | Linux, Oracle, Spring, JSP | 농협 전사 통합로그인(SSO)·은행 메뉴권한관리 시스템 운영, 인증·권한·접근 통제 유지보수 |
+| NH농협 경제유통 차세대 구축 | 23.04 ~ 24.06 (14개월) | Linux, Oracle, xFrame5, BXM, Spring | 전사 경제업무시스템 공통 운영관리(로그인, 권한·사용자·기준관리) 모듈 설계·구현 |
+| POSCO MES 노재내화물 관리 | 21.08 ~ 23.03 (20개월) | Oracle, MSA, JPA, Java, Spring Boot, React, EAI | 설비 수리·자재비·인건비 정산 등 MSA 기반 업무·I/F·DB 설계·개발 |
+| POSCO 전사 제안관리시스템 | 20.11 ~ 21.07 (9개월) | Spring, Java, JSP, Mybatis, EAI | 제안등록·심사 시스템 업무·화면·DB 설계·개발, 게임형 UI(외주 디자인 협업) |
+| POSCO MES 철도관제시스템 | 19.09 ~ 20.10 (14개월) | Spring, Java, JSP, Mybatis, EAI | Framework Migration, 용선 스케줄 기반 공급계획 매핑, 대용량 트랜잭션·DB Lock 대응 |
+| POSCO Smart Factory Posframe | 18.09 ~ 19.08 (12개월) | PostgreSQL, Hadoop, Redis, Storm, Java, Mybatis, EAI | 빅데이터 플랫폼, 공장 데이터 수집·저장·처리, 억 단위 처리·EAI 연동 |
 
 </details>
 
@@ -94,23 +79,23 @@
 
 ### 사이드프로젝트 (<a href="https://thinkingcatworks.com" target="_blank" rel="noopener noreferrer">THINKINGCAT</a>)
 
-> **오히후**  
+> [**오히후**](https://ohihoo.com) <small>[→ 사이트](https://ohihoo.com)</small>  
 > 일상용 이커머스, 주문·배송 관리
 
-> **피움뜰**  
+> [**피움뜰**](https://piumddeul.com) <small>[→ 사이트](https://piumddeul.com)</small>  
 > 식물 이커머스·커뮤니티
 
-> **체크온**  
+> [**도장톡톡**](https://dojang.thinkingcatworks.com/intro) <small>[→ 사이트](https://dojang.thinkingcatworks.com/intro)</small>  
+> 태권도 출결 시스템
+
+> [**체크온**](https://check.thinkingcatworks.com/intro) <small>[→ 사이트](https://check.thinkingcatworks.com/intro)</small>  
 > 음악 출결 시스템
 
-> **렌트온**  
-> 연습실(음악) 임대 시스템
-
-> **스톡온**  
+> [**스톡온**](https://stock.thinkingcatworks.com/intro) <small>[→ 사이트](https://stock.thinkingcatworks.com/intro)</small>  
 > 주가·포트폴리오·투자 분석 및 퀀트 시스템
 
-> **도장톡톡**  
-> 태권도 출결 시스템
+> [**렌트온**](https://rent.thinkingcatworks.com/intro) <small>[→ 사이트](https://rent.thinkingcatworks.com/intro)</small>  
+> 연습실(음악) 임대 시스템
 
 <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='1' fill='%2358A6FF' fill-opacity='0.15'/%3E%3C/svg%3E" width="100%" height="2" alt="" />
 
@@ -147,29 +132,14 @@
 <details>
 <summary><b>View details</b></summary>
 
-**SSO & Menu Permission Operations** <small>(24.07 ~ Present)</small>  
-· Tech: Linux, Oracle, Spring, JSP  
-· Operations for group-wide SSO and bank menu/permission systems; authentication & access control.
-
-**NH Nonghyup Economy Distribution Next-Gen** <small>(23.04 ~ 24.06, 14mo)</small>  
-· Tech: Linux, Oracle, xFrame5, BXM, Spring  
-· Common operations modules (login, permissions, user/standard management) for economy systems.
-
-**POSCO MES Refractories** <small>(21.08 ~ 23.03, 20mo)</small>  
-· Tech: Oracle, MSA, JPA, Java, Spring Boot, React, EAI  
-· End-to-end design; equipment repair, material/labor cost settlement; MSA-based implementation.
-
-**POSCO Proposal Management** <small>(20.11 ~ 21.07, 9mo)</small>  
-· Tech: Spring Framework, Java, JSP, Mybatis, EAI  
-· Proposal registration & review system; game-style UI with external design partner.
-
-**POSCO MES Railway Control** <small>(19.09 ~ 20.10, 14mo)</small>  
-· Tech: Spring Framework, Java, JSP, Mybatis, EAI  
-· Framework migration; supply planning mapping; transaction & DB lock handling in MES.
-
-**POSCO Smart Factory Posframe** <small>(18.09 ~ 19.08, 12mo)</small>  
-· Tech: PostgreSQL, Hadoop, Redis, Storm, Java, Mybatis, EAI  
-· Big-data platform for plant data; large-scale processing and EAI integration.
+| Project | Period | Tech | Description |
+| :--- | :---: | :--- | :--- |
+| SSO & Menu Permission Operations | 24.07 ~ Present | Linux, Oracle, Spring, JSP | Group-wide SSO and bank menu/permission operations; auth & access control |
+| NH Nonghyup Economy Distribution Next-Gen | 23.04 ~ 24.06 (14mo) | Linux, Oracle, xFrame5, BXM, Spring | Common operations (login, permissions, user/standard management) for economy systems |
+| POSCO MES Refractories | 21.08 ~ 23.03 (20mo) | Oracle, MSA, JPA, Java, Spring Boot, React, EAI | Equipment repair, material/labor cost settlement; MSA-based design & implementation |
+| POSCO Proposal Management | 20.11 ~ 21.07 (9mo) | Spring, Java, JSP, Mybatis, EAI | Proposal registration & review system; game-style UI with external design partner |
+| POSCO MES Railway Control | 19.09 ~ 20.10 (14mo) | Spring, Java, JSP, Mybatis, EAI | Framework migration; supply planning mapping; high-volume transaction & DB lock handling |
+| POSCO Smart Factory Posframe | 18.09 ~ 19.08 (12mo) | PostgreSQL, Hadoop, Redis, Storm, Java, Mybatis, EAI | Big-data platform for plant data; large-scale processing and EAI integration |
 
 </details>
 
@@ -193,20 +163,20 @@
 
 ### Side projects (<a href="https://thinkingcatworks.com" target="_blank" rel="noopener noreferrer">THINKINGCAT</a>)
 
-> **Ohihoo**  
+> [**Ohihoo**](https://ohihoo.com) <small>[→ Site](https://ohihoo.com)</small>  
 > Daily essentials e-commerce, order & delivery
 
-> **Piumddeul**  
+> [**Piumddeul**](https://piumddeul.com) <small>[→ Site](https://piumddeul.com)</small>  
 > Plant e-commerce & community
 
-> **CheckOn**  
+> [**도장톡톡**](https://dojang.thinkingcatworks.com/intro) <small>[→ Site](https://dojang.thinkingcatworks.com/intro)</small>  
+> Taekwondo attendance system
+
+> [**CheckOn**](https://check.thinkingcatworks.com/intro) <small>[→ Site](https://check.thinkingcatworks.com/intro)</small>  
 > Music attendance system
 
-> **RentOn**  
-> Music practice room rental system
-
-> **StockOn**  
+> [**StockOn**](https://stock.thinkingcatworks.com/intro) <small>[→ Site](https://stock.thinkingcatworks.com/intro)</small>  
 > Stock, portfolio, investment analysis & quant system
 
-> **도장톡톡**  
-> Taekwondo attendance system
+> [**RentOn**](https://rent.thinkingcatworks.com/intro) <small>[→ Site](https://rent.thinkingcatworks.com/intro)</small>  
+> Music practice room rental system

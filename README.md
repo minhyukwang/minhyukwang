@@ -54,7 +54,7 @@
 **DB · 도구**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### ThinkingCat Works · [thinkingcatworks.com](https://thinkingcatworks.com)
+### 사이드프로젝트 ([THINKINGCAT](https://thinkingcatworks.com))
 
 **이커머스**
 - **오히후** — 일상용 이커머스, 주문·배송 관리
@@ -71,8 +71,6 @@
 
 **태권도 출결**
 - **도장톡톡** — 태권도 출결 시스템
-
-**사이드** · TodoList SNS
 
 ---
 
@@ -114,7 +112,7 @@ Full Stack Developer. Background in enterprise system development and operations
 **DB · Tools**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### ThinkingCat Works · [thinkingcatworks.com](https://thinkingcatworks.com)
+### Side projects ([THINKINGCAT](https://thinkingcatworks.com))
 
 **E-commerce**
 - **Ohihoo** — Daily essentials e-commerce, order & delivery
@@ -131,5 +129,3 @@ Full Stack Developer. Background in enterprise system development and operations
 
 **Taekwondo attendance**
 - **도장톡톡** — Taekwondo attendance system
-
-**Side** · TodoList SNS

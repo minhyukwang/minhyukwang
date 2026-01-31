@@ -4,19 +4,18 @@
 
 <br>
 
-<a href="https://thinkingcatworks.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:minhyuk.tech@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/minhyukwang" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br>
 
-[한국어](#-소개) · [English](#-about-me)
+[한국어](#korean) · [English](#english)
 
 </div>
 
 <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='1' fill='%2358A6FF' fill-opacity='0.15'/%3E%3C/svg%3E" width="100%" height="2" alt="" />
 
-<div id="top"></div>
+<span id="korean"></span>
 
 ## 👨‍💻 소개
 
@@ -104,7 +103,7 @@
 
 <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='1' fill='%2358A6FF' fill-opacity='0.15'/%3E%3C/svg%3E" width="100%" height="2" alt="" />
 
-<div id="english-version"></div>
+<span id="english"></span>
 
 ## 👨‍💻 About Me
 

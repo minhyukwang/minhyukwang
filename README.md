@@ -60,17 +60,17 @@
 - **오히후** — 일상용 이커머스, 주문·배송 관리
 - **피움뜰** — 식물 이커머스·커뮤니티
 
-**출결·근태**
-- **체크온** — 출결·근태 관리, 모바일 지원
+**음악 출결**
+- **체크온** — 음악 출결 시스템
 
-**렌탈**
-- **렌트온** — 렌탈 상품·계약·결제 관리
+**연습실 임대**
+- **렌트온** — 연습실(음악) 임대 시스템
 
-**투자·자산**
-- **스톡온** — 주가·포트폴리오·투자 분석
+**투자·퀀트**
+- **스톡온** — 주가·포트폴리오·투자 분석 및 퀀트 시스템
 
-**도장 관리**
-- **도장톡톡** — 태권도 도장 학생·출석·수강료 관리
+**태권도 출결**
+- **도장톡톡** — 태권도 출결 시스템
 
 **사이드** · TodoList SNS
 
@@ -120,16 +120,16 @@ Full Stack Developer. Background in enterprise system development and operations
 - **Ohihoo** — Daily essentials e-commerce, order & delivery
 - **Piumddeul** — Plant e-commerce & community
 
-**Attendance & workforce**
-- **CheckOn** — Attendance tracking, mobile support
+**Music attendance**
+- **CheckOn** — Music attendance system
 
-**Rental**
-- **RentOn** — Rental products, contracts, payment
+**Practice room rental**
+- **RentOn** — Music practice room rental system
 
-**Investment**
-- **StockOn** — Quotes, portfolio, investment analysis
+**Investment & quant**
+- **StockOn** — Stock, portfolio, investment analysis & quant system
 
-**Dojang management**
-- **도장톡톡** — Taekwondo dojang: students, attendance, tuition
+**Taekwondo attendance**
+- **도장톡톡** — Taekwondo attendance system
 
 **Side** · TodoList SNS

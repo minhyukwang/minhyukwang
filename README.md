@@ -94,21 +94,23 @@
 
 ### 사이드프로젝트 (<a href="https://thinkingcatworks.com" target="_blank" rel="noopener noreferrer">THINKINGCAT</a>)
 
-**이커머스**
-- **오히후** — 일상용 이커머스, 주문·배송 관리
-- **피움뜰** — 식물 이커머스·커뮤니티
+> **오히후**  
+> 일상용 이커머스, 주문·배송 관리
 
-**음악 출결**
-- **체크온** — 음악 출결 시스템
+> **피움뜰**  
+> 식물 이커머스·커뮤니티
 
-**연습실 임대**
-- **렌트온** — 연습실(음악) 임대 시스템
+> **체크온**  
+> 음악 출결 시스템
 
-**투자·퀀트**
-- **스톡온** — 주가·포트폴리오·투자 분석 및 퀀트 시스템
+> **렌트온**  
+> 연습실(음악) 임대 시스템
 
-**태권도 출결**
-- **도장톡톡** — 태권도 출결 시스템
+> **스톡온**  
+> 주가·포트폴리오·투자 분석 및 퀀트 시스템
+
+> **도장톡톡**  
+> 태권도 출결 시스템
 
 <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='1' fill='%2358A6FF' fill-opacity='0.15'/%3E%3C/svg%3E" width="100%" height="2" alt="" />
 
@@ -191,18 +193,20 @@
 
 ### Side projects (<a href="https://thinkingcatworks.com" target="_blank" rel="noopener noreferrer">THINKINGCAT</a>)
 
-**E-commerce**
-- **Ohihoo** — Daily essentials e-commerce, order & delivery
-- **Piumddeul** — Plant e-commerce & community
+> **Ohihoo**  
+> Daily essentials e-commerce, order & delivery
 
-**Music attendance**
-- **CheckOn** — Music attendance system
+> **Piumddeul**  
+> Plant e-commerce & community
 
-**Practice room rental**
-- **RentOn** — Music practice room rental system
+> **CheckOn**  
+> Music attendance system
 
-**Investment & quant**
-- **StockOn** — Stock, portfolio, investment analysis & quant system
+> **RentOn**  
+> Music practice room rental system
 
-**Taekwondo attendance**
-- **도장톡톡** — Taekwondo attendance system
+> **StockOn**  
+> Stock, portfolio, investment analysis & quant system
+
+> **도장톡톡**  
+> Taekwondo attendance system

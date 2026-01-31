@@ -7,15 +7,12 @@
 <a href="mailto:minhyuk.tech@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/minhyukwang" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-<br>
-
-[한국어](#korean) · [English](#english)
-
 </div>
 
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='1' fill='%2358A6FF' fill-opacity='0.15'/%3E%3C/svg%3E" width="100%" height="2" alt="" />
+<details open>
+<summary><b>🇰🇷 한국어</b></summary>
 
-<span id="korean"></span>
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='1' fill='%2358A6FF' fill-opacity='0.15'/%3E%3C/svg%3E" width="100%" height="2" alt="" />
 
 ## 👨‍💻 소개
 
@@ -101,9 +98,12 @@
 **태권도 출결**
 - **도장톡톡** — 태권도 출결 시스템
 
-<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='1' fill='%2358A6FF' fill-opacity='0.15'/%3E%3C/svg%3E" width="100%" height="2" alt="" />
+</details>
 
-<span id="english"></span>
+<details>
+<summary><b>🇺🇸 English</b></summary>
+
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='1' fill='%2358A6FF' fill-opacity='0.15'/%3E%3C/svg%3E" width="100%" height="2" alt="" />
 
 ## 👨‍💻 About Me
 
@@ -188,3 +188,5 @@
 
 **Taekwondo attendance**
 - **도장톡톡** — Taekwondo attendance system
+
+</details>

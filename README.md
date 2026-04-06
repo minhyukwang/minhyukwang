@@ -74,7 +74,7 @@
 
 > Full Stack Developer. Background in enterprise system development and operations (finance, manufacturing); I design and build web applications end-to-end and have shipped startup products from concept to deployment.
 
-**Contact** · <a href="mailto:minhyuk.tech@gmail.com" target="_blank" rel="noopener noreferrer">minhyuk.tech@gmail.com</a> · <a href="https://thinkingcatworks.com" target="_blank" rel="noopener noreferrer">thinkingcatworks.com</a> · <a href="https://github.com/minhyukwang" target="_blank" rel="noopener noreferrer">@minhyukwang</a>
+**Contact** · <a href="mailto:minhyuk.tech@gmail.com" target="_blank" rel="noopener noreferrer">minhyuk.tech@gmail.com</a>  · <a href="https://github.com/minhyukwang" target="_blank" rel="noopener noreferrer">@minhyukwang</a>
 
 <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='1' fill='%2358A6FF' fill-opacity='0.15'/%3E%3C/svg%3E" width="100%" height="2" alt="" />
 

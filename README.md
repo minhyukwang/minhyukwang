@@ -23,7 +23,7 @@
 
 > 풀스택 개발자입니다. 금융·제조 엔터프라이즈 시스템 개발·운영 경험을 바탕으로, 엔드투엔드 웹 설계·배포와 스타트업 서비스까지 기획·개발해 왔습니다.
 
-**연락** · <a href="mailto:minhyuk.tech@gmail.com" target="_blank" rel="noopener noreferrer">minhyuk.tech@gmail.com</a> · <a href="https://thinkingcatworks.com" target="_blank" rel="noopener noreferrer">thinkingcatworks.com</a> · <a href="https://github.com/minhyukwang" target="_blank" rel="noopener noreferrer">@minhyukwang</a>
+**연락** · <a href="mailto:minhyuk.tech@gmail.com" target="_blank" rel="noopener noreferrer">minhyuk.tech@gmail.com</a>  <a href="https://github.com/minhyukwang" target="_blank" rel="noopener noreferrer">@minhyukwang</a>
 
 <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='1' fill='%2358A6FF' fill-opacity='0.15'/%3E%3C/svg%3E" width="100%" height="2" alt="" />
 

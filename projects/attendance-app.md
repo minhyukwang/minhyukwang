@@ -1,6 +1,6 @@
 <div align="right">
 
-[**← 프로필 README**](../README.md) · [**사이드 프로젝트 목록**](./README.md)
+[**← 프로필 (KO)**](../README.md) · [**Profile (EN)**](../README.en.md) · [**목록**](./README.md)
 
 </div>
 

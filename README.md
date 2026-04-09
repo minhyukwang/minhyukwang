@@ -17,10 +17,6 @@
 
 <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='3'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%2358A6FF' stop-opacity='0.1'/%3E%3Cstop offset='50%25' stop-color='%2358A6FF' stop-opacity='0.45'/%3E%3Cstop offset='100%25' stop-color='%2358A6FF' stop-opacity='0.1'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100%25' height='3' fill='url(%23g)'/%3E%3C/svg%3E" width="100%" height="3" alt="">
 
-## 한 줄 요약
-
-**Full Stack Developer in Seoul** — 회사에서는 **전 직원이 쓰는 로그인·권한** 같은 핵심 시스템을 맡고, 개인 프로젝트에서는 **웹 화면부터 서버·데이터베이스까지** 한 번에 설계합니다. 특히 **모바일 앱 안의 웹 화면**처럼 로그인이 자주 끊기기 쉬운 구간을 줄이는 데 익숙합니다.
-
 ## 소개
 
 여러 조직에서 **규모가 큰 업무 시스템**을 개발·운영해 온 풀스택 개발자입니다.  
@@ -28,23 +24,23 @@
 
 ## 엔터프라이즈 경력
 
-| 기간 | 기업 | 프로젝트 / 역할 |
-| ---- | ---- | ---------------- |
-| 2024.07 — **현재** | **NH농협** | 통합로그인(**SSO**)·메뉴권한 운영 — 가용성·지연·감사 |
-| 2023.04 — 2024.06 | **NH농협** | 경제유통 차세대 — 공통모듈(로그인·권한 등) |
-| 2021.08 — 2023.03 | **POSCO** | **MES** 노재·내화물 관리 — MSA, 정산·연동 |
-| 2020.11 — 2021.07 | **POSCO** | 전사 **제안관리** 시스템 — 업무·DB·UI |
-| 2019.09 — 2020.10 | **POSCO** | **MES** 철도관제·용선 — 프레임워크 이행, 대용량 TX |
-| 2018.09 — 2019.08 | **POSCO** | Smart Factory **Posframe** 플랫폼 — 빅데이터 파이프라인 |
+| 기간               | 기업       | 프로젝트 / 역할                                         |
+| ------------------ | ---------- | ------------------------------------------------------- |
+| 2024.07 — **현재** | **NH농협** | 통합로그인(**SSO**)·메뉴권한 운영 — 가용성·지연·감사    |
+| 2023.04 — 2024.06  | **NH농협** | 경제유통 차세대 — 공통모듈(로그인·권한 등)              |
+| 2021.08 — 2023.03  | **POSCO**  | **MES** 노재·내화물 관리 — MSA, 정산·연동               |
+| 2020.11 — 2021.07  | **POSCO**  | 전사 **제안관리** 시스템 — 업무·DB·UI                   |
+| 2019.09 — 2020.10  | **POSCO**  | **MES** 철도관제·용선 — 프레임워크 이행, 대용량 TX      |
+| 2018.09 — 2019.08  | **POSCO**  | Smart Factory **Posframe** 플랫폼 — 빅데이터 파이프라인 |
 
 ## 사이드 프로젝트
 
-| 이름 | 기간 | 스택 (요약) | 설계 문서 |
-| ---- | ---- | ------------- | --------- |
-| 출결 관리 | 2025 — 현재 | Next.js, WebView, 집계·리포트 | [**attendance-app**](./projects/attendance-app.md) |
-| 투자 데이터 | 2024 — 2025 | Next.js, Python 배치, 시각화, **배치 모니터링** | [**investment-data**](./projects/investment-data.md) |
-| 팀 협업 | 2022 — 2023 | Next.js, 실시간 — **자체 WebSocket 게이트웨이** | [**team-collaboration**](./projects/team-collaboration.md) |
-| 이커머스 | 2020 — 2021 | Next.js, 커머스·게시판 — **자체 파일 서버** | [**vertical-commerce**](./projects/vertical-commerce.md) |
+| 이름        | 기간        | 스택 (요약)                                     | 설계 문서                                                  |
+| ----------- | ----------- | ----------------------------------------------- | ---------------------------------------------------------- |
+| 출결 관리   | 2025 — 현재 | Next.js, WebView, 집계·리포트                   | [**attendance-app**](./projects/attendance-app.md)         |
+| 투자 데이터 | 2024 — 2025 | Next.js, Python 배치, 시각화, **배치 모니터링** | [**investment-data**](./projects/investment-data.md)       |
+| 팀 협업     | 2022 — 2023 | Next.js, 실시간 — **자체 WebSocket 게이트웨이** | [**team-collaboration**](./projects/team-collaboration.md) |
+| 이커머스    | 2020 — 2021 | Next.js, 커머스·게시판 — **자체 파일 서버**     | [**vertical-commerce**](./projects/vertical-commerce.md)   |
 
 ## 기술 스택 · 레이어
 

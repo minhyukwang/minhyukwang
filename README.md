@@ -20,7 +20,7 @@
 ## 소개
 
 여러 조직에서 **규모가 큰 업무 시스템**을 개발·운영해 온 풀스택 개발자입니다.  
-현재는 농협에서 **통합 로그인(SSO)** 과 **누가 어떤 업무 화면을 쓸 수 있는지 정하는 권한** 업무를 맡고 있습니다. 은행·내부 시스템과 연결되어 있고, **동시에 접속하는 사람이 매우 많은 환경**이라, 장애가 나면 빠르게 복구하고 근본 원인을 줄이도록 구조를 고치는 일을 합니다.
+현재는 농협에서 **통합 로그인(SSO)** 과 **누가 어떤 업무 화면을 쓸 수 있는지 정하는 권한** 업무를 맡고 있습니다. 은행·내부 시스템과 연결되어 있고, **동시에 접속하는 사람이 매우 많은 환경**이라, 장애가 나면 빠르게 복구하고 근본 원인을 줄이도록 구조를 고치고 요구사항을 개선하고 있습니다.
 
 ## 엔터프라이즈 경력
 
@@ -55,23 +55,6 @@
 
 **Delivery · Auth**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-<details>
-<summary><b>엔지니어링 하이라이트</b> (측정·개선 관점 — 펼치기)</summary>
-
-- **집계 / SQL** — 월 단위 출결 집계 API p95 ~2.8s → ~420ms 수준으로 단축, ORM 중첩·N+1 제거 후 단일 집계 쿼리·인덱스 정합.
-- **WebView · 인증** — 토큰 만료 세션 끊김 ~3.5% → ~0.9%, HttpOnly 쿠키·갱신·SameSite 등으로 표면 축소.
-- **전사 SSO** — 로그인 피크 p95 개선, 권한 동기화 지연·CS 건수·롤백 의사결정 시간 단축, 메트릭·카나리·감사 로그 체계.
-- **운영** — 슬로우 쿼리·SLO 기반 타임아웃·런북 단순화, 성능 회귀 재발 방지.
-
-</details>
-
-<details>
-<summary><b>아키텍처 원칙</b> (한 줄 요약 — 펼치기)</summary>
-
-Next.js로 UI·API 경계를 한 레포에서 맞추되, **읽기 집계**와 **쓰기 TX**의 SLO를 분리합니다. Prisma는 스키마·CRUD에 두고 비용 큰 리포트·집계는 **Raw SQL·뷰**로 읽기 모델을 분리합니다. WebView는 **쿠키·도메인·갱신 레이스**를 지표로 두고 BFF·세션 전략을 고릅니다.
-
-</details>
 
 **연락** · [minhyuk.tech@gmail.com](mailto:minhyuk.tech@gmail.com) · [minhyuk.dev](https://minhyuk.dev) · [@minhyukwang](https://github.com/minhyukwang)
 

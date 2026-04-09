@@ -5,6 +5,7 @@
 ### Minhyuk Wang (Peter) · Seoul
 
 <a href="mailto:minhyuk.tech@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://minhyuk.dev"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=safari&logoColor=white" alt="Website minhyuk.dev"></a>
 <a href="https://github.com/minhyukwang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/minhyuktech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
@@ -18,24 +19,25 @@
 
 ## One-liner
 
-**Full Stack Developer in Seoul** — I ship **enterprise-scale SSO & authorization** and product-grade **Next.js** stacks. I care about **observable SQL**, **session models** (JWT vs cookie vs WebView), and **SLOs** that survive on-call.
+**Full Stack Developer in Seoul** — At work I own **company-wide login and access control**; on my own projects I build **web apps end-to-end** (UI, APIs, database). I’m especially used to **keeping sign-in stable inside mobile apps** (embedded web), where sessions drop easily.
 
 ## About
 
-I build and operate large systems end-to-end. Today I run **federation-wide login & bank menu/permission** flows—high availability, latency, audit—and multi-system integration.
+I’ve built and run **large business systems** in several organizations.  
+Today at **NH Nonghyup** I operate **single sign-on (SSO)** and **permissions**—who can open which internal screens. The stack ties into **many other bank and internal systems** and serves **a very large number of concurrent users**, so I focus on **recovering quickly when something breaks** and **fixing the underlying design** so problems don’t come back.
 
 On the side, I work across **attendance**, **market data**, **team collaboration**, and **commerce**.
 
 ## Enterprise timeline
 
-| Period | Focus |
-| ------ | ----- |
-| 2024.07 — **Present** | Financial sector **SSO & menu permissions** — reliability & audit |
-| 2023.04 — 2024.06 | Next-gen **shared platform** (login, IAM modules) |
-| 2021.08 — 2023.03 | **MES** refractories — MSA, settlement integrations |
-| 2020.11 — 2021.07 | Enterprise **proposal** workflow — business + UI + DB |
-| 2019.09 — 2020.10 | **Rail control** — framework migration, heavy TX |
-| 2018.09 — 2019.08 | **Smart factory** data platform |
+| Period | Company | Role / project |
+| ------ | ------- | -------------- |
+| 2024.07 — **Present** | **NH Nonghyup** | Enterprise **SSO** & **menu/permission** ops — reliability, latency, audit |
+| 2023.04 — 2024.06 | **NH Nonghyup** | Next-gen economy platform — shared ops modules (login, IAM) |
+| 2021.08 — 2023.03 | **POSCO** | **MES** refractory & material management — MSA, settlement integrations |
+| 2020.11 — 2021.07 | **POSCO** | Enterprise **proposal** system — business flows, DB, UI |
+| 2019.09 — 2020.10 | **POSCO** | **MES** rail control & hot-metal schedule — migration, heavy transactions |
+| 2018.09 — 2019.08 | **POSCO** | Smart Factory **Posframe** platform — data pipelines |
 
 ## Side projects
 
@@ -43,8 +45,8 @@ On the side, I work across **attendance**, **market data**, **team collaboration
 | ---- | ------ | ------------- | ---------------- |
 | Attendance | 2025 — present | Next.js, WebView, reporting | [**attendance-app**](./projects/attendance-app.md) |
 | Investment data | 2024 — 2025 | Next.js, Python batch, viz, **batch monitor** | [**investment-data**](./projects/investment-data.md) |
-| Team collaboration | 2022 — 2023 | Next.js, realtime — **Hermes WS gateway** | [**team-collaboration**](./projects/team-collaboration.md) |
-| Vertical commerce | 2020 — 2021 | Next.js — **Atlas file server** | [**vertical-commerce**](./projects/vertical-commerce.md) |
+| Team collaboration | 2022 — 2023 | Next.js, realtime — **custom WebSocket gateway** | [**team-collaboration**](./projects/team-collaboration.md) |
+| Vertical commerce | 2020 — 2021 | Next.js — **in-house file server** | [**vertical-commerce**](./projects/vertical-commerce.md) |
 
 ## Stack · layers
 
@@ -77,7 +79,7 @@ Keep Next.js UI + API in one codebase but **separate read vs write SLOs**. Use P
 
 </details>
 
-**Contact** · [minhyuk.tech@gmail.com](mailto:minhyuk.tech@gmail.com) · [@minhyukwang](https://github.com/minhyukwang) · [LinkedIn](https://www.linkedin.com/in/minhyuktech)
+**Contact** · [minhyuk.tech@gmail.com](mailto:minhyuk.tech@gmail.com) · [minhyuk.dev](https://minhyuk.dev) · [@minhyukwang](https://github.com/minhyukwang) · [LinkedIn](https://www.linkedin.com/in/minhyuktech)
 
 <div align="center">
 

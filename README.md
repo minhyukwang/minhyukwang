@@ -5,6 +5,7 @@
 ### 왕민혁 (Peter) · Seoul
 
 <a href="mailto:minhyuk.tech@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://minhyuk.dev"><img src="https://img.shields.io/badge/Website-0F172A?style=for-the-badge&logo=safari&logoColor=white" alt="Website minhyuk.dev"></a>
 <a href="https://github.com/minhyukwang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/minhyuktech"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
@@ -18,23 +19,23 @@
 
 ## 한 줄 요약
 
-**Full Stack Developer in Seoul** — 대규모 시스템 운영과 제품 풀스택을 같이 봅니다. 농협 전사 **SSO·권한** 체계 운영을 담당하며, Next.js·Prisma·SQL 한 레포 안에서 UI·API·집계 경로를 나누는 패턴과 **WebView·세션·JWT** 트레이드오프를 지표로 다룹니다.
+**Full Stack Developer in Seoul** — 회사에서는 **전 직원이 쓰는 로그인·권한** 같은 핵심 시스템을 맡고, 개인 프로젝트에서는 **웹 화면부터 서버·데이터베이스까지** 한 번에 설계합니다. 특히 **모바일 앱 안의 웹 화면**처럼 로그인이 자주 끊기기 쉬운 구간을 줄이는 데 익숙합니다.
 
 ## 소개
 
-대규모 시스템 개발·운영을 하고, 복잡한 문제를 해결하는 풀스택 개발자입니다.  
-현재는 농협 전사 **통합 로그인(SSO)·권한** 환경을 운영하며, **수십만 명 규모의 인증·인가**와 다수 시스템 연동·장애 대응·구조 개선으로 가용성을 맞추고 있습니다.
+여러 조직에서 **규모가 큰 업무 시스템**을 개발·운영해 온 풀스택 개발자입니다.  
+현재는 농협에서 **통합 로그인(SSO)** 과 **누가 어떤 업무 화면을 쓸 수 있는지 정하는 권한** 업무를 맡고 있습니다. 다른 은행·내부 시스템과 연결되어 있고, **동시에 접속하는 사람이 매우 많은 환경**이라, 장애가 나면 빠르게 복구하고 근본 원인을 줄이도록 구조를 고치는 일을 합니다.
 
 ## 엔터프라이즈 경력
 
-| 기간 | 프로젝트 / 역할 |
-| ---- | ---------------- |
-| 2024.07 — **현재** | 금융권 전사 **SSO·메뉴권한** 운영 — 가용성·지연·감사 |
-| 2023.04 — 2024.06 | 금융권 차세대 **공통모듈** (로그인·권한 등) |
-| 2021.08 — 2023.03 | **MES** 노재·내화물 — MSA, 정산·연동 |
-| 2020.11 — 2021.07 | 전사 **제안관리** — 업무·DB·UI |
-| 2019.09 — 2020.10 | **철도관제·용선** — 프레임워크 이행, 대용량 TX |
-| 2018.09 — 2019.08 | **Smart Factory** 빅데이터 플랫폼 |
+| 기간 | 기업 | 프로젝트 / 역할 |
+| ---- | ---- | ---------------- |
+| 2024.07 — **현재** | **NH농협** | 통합로그인(**SSO**)·메뉴권한 운영 — 가용성·지연·감사 |
+| 2023.04 — 2024.06 | **NH농협** | 경제유통 차세대 — 공통모듈(로그인·권한 등) |
+| 2021.08 — 2023.03 | **POSCO** | **MES** 노재·내화물 관리 — MSA, 정산·연동 |
+| 2020.11 — 2021.07 | **POSCO** | 전사 **제안관리** 시스템 — 업무·DB·UI |
+| 2019.09 — 2020.10 | **POSCO** | **MES** 철도관제·용선 — 프레임워크 이행, 대용량 TX |
+| 2018.09 — 2019.08 | **POSCO** | Smart Factory **Posframe** 플랫폼 — 빅데이터 파이프라인 |
 
 ## 사이드 프로젝트
 
@@ -42,8 +43,8 @@
 | ---- | ---- | ------------- | --------- |
 | 출결 관리 | 2025 — 현재 | Next.js, WebView, 집계·리포트 | [**attendance-app**](./projects/attendance-app.md) |
 | 투자 데이터 | 2024 — 2025 | Next.js, Python 배치, 시각화, **배치 모니터링** | [**investment-data**](./projects/investment-data.md) |
-| 팀 협업 | 2022 — 2023 | Next.js, 실시간 — **Hermes WebSocket GW** | [**team-collaboration**](./projects/team-collaboration.md) |
-| 이커머스 | 2020 — 2021 | Next.js, 커머스·게시판 — **Atlas 파일 서버** | [**vertical-commerce**](./projects/vertical-commerce.md) |
+| 팀 협업 | 2022 — 2023 | Next.js, 실시간 — **자체 WebSocket 게이트웨이** | [**team-collaboration**](./projects/team-collaboration.md) |
+| 이커머스 | 2020 — 2021 | Next.js, 커머스·게시판 — **자체 파일 서버** | [**vertical-commerce**](./projects/vertical-commerce.md) |
 
 ## 기술 스택 · 레이어
 
@@ -76,7 +77,7 @@ Next.js로 UI·API 경계를 한 레포에서 맞추되, **읽기 집계**와 **
 
 </details>
 
-**연락** · [minhyuk.tech@gmail.com](mailto:minhyuk.tech@gmail.com) · [@minhyukwang](https://github.com/minhyukwang)
+**연락** · [minhyuk.tech@gmail.com](mailto:minhyuk.tech@gmail.com) · [minhyuk.dev](https://minhyuk.dev) · [@minhyukwang](https://github.com/minhyukwang)
 
 <div align="center">
 

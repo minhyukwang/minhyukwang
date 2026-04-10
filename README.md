@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.vercel.app/?lines=Hi%2C+I%27m+Minhyuk;Full+Stack+%7C+Web+%7C+Data+Layer;Enterprise+SSO+%C2%B7+Next.js+%C2%B7+SQL&font=Fira%20Code&center=true&width=700&height=55&color=58A6FF&vCenter=true&size=22&duration=3200&pause=900&repeat=true" alt="Typing intro">
+<img src="https://readme-typing-svg.vercel.app/?lines=Hi%2C+I%27m+Minhyuk;Full+Stack+%7C+Web+%7C+Data+Layer;Java+%C2%B7+Next.js+%C2%B7+SQL&font=Fira%20Code&center=true&width=700&height=55&color=58A6FF&vCenter=true&size=22&duration=3200&pause=900&repeat=true" alt="Typing intro">
 
 ### 왕민혁 (Peter) · Seoul
 
